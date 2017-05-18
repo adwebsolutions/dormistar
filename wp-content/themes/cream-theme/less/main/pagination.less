@@ -1,0 +1,64 @@
+/*-----------------------------------------------------------------------------------*/
+/*  Pagination
+/*-----------------------------------------------------------------------------------*/
+@pagination_bg_color : #dbdde8;
+.pagination {
+  margin: 30px 0 0;
+  text-align: center;
+  width: 100%;
+  span,
+  a {
+    display: inline-block;
+    color: @white;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 8px 15px;
+    margin: 2px 4px;
+    background-color: @heading_color;
+    &.current,
+    &:hover {
+      background-color: @anchor_color;
+    }
+  }
+}
+
+
+.woocommerce nav.woocommerce-pagination ul,
+.woocommerce #content nav.woocommerce-pagination ul,
+.woocommerce-page nav.woocommerce-pagination ul,
+.woocommerce-page #content nav.woocommerce-pagination ul {
+  border: none;
+  margin: 1px;
+}
+
+
+.woocommerce nav.woocommerce-pagination ul li,
+.woocommerce #content nav.woocommerce-pagination ul li,
+.woocommerce-page nav.woocommerce-pagination ul li,
+.woocommerce-page #content nav.woocommerce-pagination ul li {
+  color: @white;
+  padding: 0;
+  margin: 2px;
+  border: none;
+  background-color: @heading_color;
+}
+
+
+.woocommerce nav.woocommerce-pagination ul li a,
+.woocommerce nav.woocommerce-pagination ul li span,
+.woocommerce #content nav.woocommerce-pagination ul li a,
+.woocommerce #content nav.woocommerce-pagination ul li span,
+.woocommerce-page nav.woocommerce-pagination ul li a,
+.woocommerce-page nav.woocommerce-pagination ul li span,
+.woocommerce-page #content nav.woocommerce-pagination ul li a,
+.woocommerce-page #content nav.woocommerce-pagination ul li span {
+  padding: 10px 15px;
+  color: #fff;
+  &.current,
+  &:hover {
+    color: #fff;
+    background-color: @anchor_color;
+  }
+}

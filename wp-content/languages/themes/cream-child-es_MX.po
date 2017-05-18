@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cream\n"
+"POT-Creation-Date: 2017-05-19 11:20-0400\n"
+"PO-Revision-Date: 2017-05-19 11:20-0400\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: tgm\n"
+"X-Poedit-SearchPathExcluded-2: less\n"
+"X-Poedit-SearchPathExcluded-3: include/twitter\n"
+"X-Poedit-SearchPathExcluded-4: node_modules\n"
+"X-Poedit-SearchPathExcluded-5: theme-options/extension-loader\n"
+
+#: functions.php:46
+msgid "ChildTheme Options"
+msgstr "Opciones del Tema Hijo"
+
+#: functions.php:47
+msgid "The section has added config options fro child theme"
+msgstr "Esta sección agrega opciones de configuración al tema"
+
+#: functions.php:53
+msgid "Top Bar?"
+msgstr "Barra Superior?"
+
+#: functions.php:54
+msgid "Show or Hide top bar"
+msgstr "Mostrar o Ocultar Barra Superior"
+
+#: functions.php:56 functions.php:149 functions.php:176
+msgid "Show"
+msgstr "Mostrar"
+
+#: functions.php:57 functions.php:150 functions.php:177
+msgid "Hide"
+msgstr "Ocultar"
+
+#: functions.php:62
+msgid "Left Bar Title"
+msgstr "Título de la Barra Lateral Izquierda"
+
+#: functions.php:64
+msgid "Provide title to display above left section on topbar."
+msgstr ""
+"Proveer un título para mostrar en la sección izquierda de la barra superior."
+
+#: functions.php:70
+msgid "Left Bar Icon"
+msgstr "Ícono en la Barra Izquierda"
+
+#: functions.php:72
+msgid "Provide icon to display above left section on topbar?"
+msgstr "¿Mostrar ícono en la sección izquierda de la barra superior?"
+
+#: functions.php:73 functions.php:115 functions.php:158
+msgid "Yes"
+msgstr "Sí"
+
+#: functions.php:74 functions.php:116 functions.php:159
+msgid "No"
+msgstr "No"
+
+#: functions.php:80 functions.php:122
+msgid "Content to Show"
+msgstr "Contenido a Mostrar"
+
+#: functions.php:81
+msgid "Which information to show in Left Bar."
+msgstr "Qué información se mostrará en la Barra Izquierda."
+
+#: functions.php:97 functions.php:139
+msgid "Text to link"
+msgstr "Agregar un link al texto"
+
+#: functions.php:98
+msgid "Address/Phone/Mail to display in left top bar ?"
+msgstr "Dirección/Teléfono/Correo a mostrar en la barra superior izquierda?"
+
+#: functions.php:104
+msgid "Right Bar Title"
+msgstr "Título de la Barra Lateral Derecha"
+
+#: functions.php:106
+msgid "Provide title to display above right section on topbar."
+msgstr ""
+"Proveer un título para mostrar en la sección derecha de la barra superior."
+
+#: functions.php:112
+msgid "Right Bar Icon"
+msgstr "Ícono en la Barra Derecha"
+
+#: functions.php:114
+msgid "Provide icon to display above right section on topbar?"
+msgstr "¿Mostrar ícono en la sección derecha de la barra superior?"
+
+#: functions.php:123
+msgid "Which information to show in Right Bar."
+msgstr "Qué información se mostrará en la Barra Izquierda."
+
+#: functions.php:140
+msgid "Address/Phone/Mail to display in right top bar ?"
+msgstr "Dirección/Teléfono/Correo a mostrar en la barra superior derecha?"
+
+#: functions.php:146
+msgid "Facebook Bar in Footer?"
+msgstr "¿Mostrar Barra de Link a Facebook en el Pie de página?"
+
+#: functions.php:147
+msgid "Show or Hide fbk bar"
+msgstr "Mostrar o Ocultar la barra de facebook"
+
+#: functions.php:155
+msgid "Facebook Bar Icon"
+msgstr "Ícono de la Barra de Facebook"
+
+#: functions.php:157
+msgid "Provide icon to display in Facebook Bar, in footer?"
+msgstr "¿Mostrar ícono en la barra de Facebook, del pie de página?"
+
+#: functions.php:165
+msgid "Facebook Bar Text"
+msgstr "Texto de Barra de Facebbok"
+
+#: functions.php:167
+msgid "Provide text to display in Facebook Bar, in footer."
+msgstr ""
+"Proveer un texto para mostrar en barra de Facebook, en el pie de página."
+
+#: functions.php:173
+msgid "Add link to facebook"
+msgstr "Agregar vínculo a facebook"
+
+#: functions.php:174
+msgid "Select if content make link to facebook page."
+msgstr "Seleccionar si el contenido hace vínculo a la página de Facebook."
+
+#: functions.php:184
+msgid "Image for Facebook Bar"
+msgstr "Imagen para la Barra de Facebook"
+
+#: functions.php:185
+msgid "Upload optional image to show in Right Side of the Facebook Bar."
+msgstr ""
+"Subir imagen opcional para mostrar en la Barra Derecha de la Barra de "
+"Facebook."
+
+#: functions.php:204
+msgid "Buy"
+msgstr "Comprar"
+
+#: header.php:182
+msgid "No products in the cart."
+msgstr "No hay productos en el Carrito."
+
+#: header.php:204 header.php:235
+msgid "Search Products..."
+msgstr "Buscar Productos..."
+
+#: header.php:204 header.php:235
+msgid "Search For:"
+msgstr "Buscar Para:"
+
+#: header.php:238
+msgid "Search"
+msgstr "Buscar"

@@ -1,0 +1,121 @@
+/*-----------------------------------------------------------------------------------*/
+/*  Services Page
+/*-----------------------------------------------------------------------------------*/
+.services-item {
+  text-align: center;
+
+  .image-container {
+    display: table;
+    width: 180px;
+    height: 100px;
+    padding-bottom: 15px;
+    margin: 0 auto 30px;
+    background: url("../images/services-top-banner-border.png") no-repeat center bottom;
+
+    .inner-wrapper {
+      display: table-cell;
+      vertical-align: bottom;
+    }
+
+    img {
+      display: inline-block;
+      max-width: 100%;
+    }
+
+  }
+
+  .title {
+    font-weight: normal;
+    margin-bottom: 16px;
+  }
+
+  p,
+  a.read-more {
+    font-size: 14px;
+  }
+
+  p {
+    margin-bottom: 0px;
+  }
+
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+/* Services plans
+/*-----------------------------------------------------------------------------------*/
+.service-plans {
+  text-align: center;
+  position: relative;
+  padding: 65px 0 55px;
+  background-color: #f9ca67;
+
+  .container {
+    position: relative;
+    z-index: 150;
+  }
+
+  &:before,
+  &:after {
+    position: absolute;
+    width: 172px;
+    height: 250px;
+    z-index: 50;
+  }
+  &:before {
+    content: '';
+    background: url("../images/services-leftcorner-bg.png") no-repeat left top;
+    top: 0px;
+    left: 0px;
+  }
+  &:after {
+    content: '';
+    background: url("../images/services-rightcorner-bg.png") no-repeat right bottom;
+    bottom: 0px;
+    right: 0px;
+  }
+
+  .image-container {
+    margin-bottom: 28px;
+    padding: 25px;
+    background-color: #fad382;
+    img {
+      max-width: 100%;
+    }
+  }
+
+  .title {
+    font-weight: normal;
+    margin-bottom: 10px;
+    a:hover {
+      color: @white;
+    }
+  }
+
+  p {
+    color: @white;
+  }
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+/*  Featured Products
+/*-----------------------------------------------------------------------------------*/
+.featured-products {
+  padding: 80px 0 50px;
+
+  header {
+    margin-bottom: 60px;
+
+    .title {
+      font-size: 48px;
+      font-weight: normal;
+      margin-bottom: 14px;
+    }
+
+    p {
+      font-size: 18px;
+    }
+  }
+}
+

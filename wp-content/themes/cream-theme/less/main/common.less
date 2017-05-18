@@ -1,0 +1,250 @@
+/*-----------------------------------------------------------------------------------*/
+/* Page Content
+/*-----------------------------------------------------------------------------------*/
+.page-content {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+/* Page Banner
+/*-----------------------------------------------------------------------------------*/
+.page-banner {
+  padding: 64px 0;
+  min-height: 184px;
+}
+
+
+.page-title {
+  color: @white;
+  font-size: 48px;
+  line-height: 52px;
+  text-transform: capitalize;
+  margin-bottom: 0;
+}
+
+
+.title-heading {
+  font-family: @font-family-base;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+/* Page Header
+/*-----------------------------------------------------------------------------------*/
+.page-content {
+  .page-header {
+    text-align: center;
+    margin: 0 0 40px;
+    padding: 0;
+    border: none;
+
+    .title {
+      font-size: 48px;
+      line-height: 54px;
+      margin-bottom: 15px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 28px;
+    }
+  }
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+/* Section Header
+/*-----------------------------------------------------------------------------------*/
+.section-header{
+  margin-bottom: 50px;
+  text-align: center;
+
+  .section-title {
+    margin-bottom: 12px;
+  }
+
+  p{
+    font-size: 18px;
+  }
+}
+
+
+.section-header,
+.home-products,{
+  .section-title {
+    font-size: 48px;
+    font-weight: 500;
+  }
+}
+
+
+.home-products,{
+  .section-title {
+    margin-bottom: 50px;
+  }
+}
+
+
+.three-clearfix
+.two-item-clearfix {
+  display: none;
+}
+
+
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/* LightBox Styles
+/*-----------------------------------------------------------------------------------*/
+#imagelightbox-close,
+.imagelightbox-arrow {
+  border: none;
+  border-radius: 0;
+  background-color: #666;
+  &:focus {
+    outline: 0;
+  }
+}
+
+.imagelightbox-arrow-right {
+  right: 0;
+}
+
+.imagelightbox-arrow-left {
+  left: 0;
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+/* Selectric Styles
+/*-----------------------------------------------------------------------------------*/
+#customer_details .chosen-container {
+  display: none;
+}
+
+select {
+  padding: 10px 20px 10px 10px;
+  margin-bottom: 15px;
+  border: 1px solid #e7e7e7;
+  border-radius: 0;
+  background: #fff url("../images/select-arrow.png") no-repeat 97% center;
+
+  /* for chrome & safari */
+  -webkit-appearance:none;
+
+  /* for firefox */
+  -moz-appearance: none;
+  text-indent: 0.01px;
+  text-overflow: '';
+
+  /* for IE */
+  &::-ms-expand{
+    display: none;
+  }
+  &:focus::-ms-value {
+    background: transparent;
+  }
+}
+
+.select2-container .select2-choice{
+  border-radius: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-color: #e7e7e7;
+}
+
+.select2-dropdown-open .select2-choice{
+  border-color: #d7d7d7;
+}
+
+.select2-drop-active{
+  border-radius: 0;
+  border-color: #d7d7d7;
+}
+
+.select2-drop.select2-drop-above.select2-drop-active,
+.select2-dropdown-open.select2-drop-above .select2-choice,
+.select2-dropdown-open.select2-drop-above .select2-choices {
+  border-radius: 0;
+  border-color: #d7d7d7;
+}
+
+
+
+.selectric {
+  border: none;
+
+  .label {
+    width: 100%;
+    color: @heading_color;
+    padding: 5px 10px;
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    min-height: 24px;
+    text-align: left;
+    border-radius: 0;
+    border: 1px solid #e7e7e7;
+    border-right: none;
+  }
+
+  .button {
+    -webkit-appearance: none;
+    color: #fff;
+    width: 40px;
+    height: 100%;
+    &:after {
+      border-top-color: #fff;
+    }
+  }
+}
+
+
+.selectricItems {
+  border: none;
+  background: @white;
+  li {
+    color: @heading_color;
+    border-bottom-color: #e7e7e7;
+    border-top: none;
+    padding: 8px 10px;
+    font-size: 13px;
+    &.selected {
+      color: @white;
+      background: @heading_color;
+    }
+  }
+  &:focus {
+    outline: 0;
+  }
+}
+
+
+.selectricHover {
+  .selectric {
+    border-color: #e7e7e7;
+    .button {
+      color: #fff;
+      &:after {
+        border-top-color: #fff;
+      }
+    }
+  }
+}
+
+
+.selectricOpen .selectric {
+  border-color: #e7e7e7;
+  background: @white;
+}
+
+
+
+

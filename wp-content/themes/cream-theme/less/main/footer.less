@@ -1,0 +1,194 @@
+/*-----------------------------------------------------------------------------------*/
+/* Twitter feeds
+/*-----------------------------------------------------------------------------------*/
+.twitter-feeds {
+  background-color: #fbd27a;
+  padding: 17px 0;
+
+  .twitter-icon {
+    float: left;
+    margin: 0 20px 0 15px;
+    i {
+      font-size: 3em;
+      color: @heading_color;
+      text-align: center;
+      width: 95px;
+      height: 95px;
+      display: block;
+      line-height: 95px;
+      vertical-align: middle;
+      background-color: #f1c76e;
+      &:hover {
+        color: #f1c76e;
+        background: @white;
+      }
+    }
+  }
+
+  .inline_tweet {
+    color: @heading_color;
+    display: table;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 25px 0 20px 27px;
+    margin-bottom: 0;
+    position: relative;
+    // background: url("../images/left-comma.png") no-repeat 0 10px;
+    &:before,
+    &:after {
+      font-family: FontAwesome;
+      color: #eac36f;
+      position: relative;
+      font-size: 24px;
+    }
+    &:before{
+      content: "\f10d";
+      top: -19px;
+      left: -6px;
+    }
+    &:after {
+      content: "\f10e";
+      bottom: -24px;
+      right: -10px;
+    }
+  }
+
+  a {
+    color: @white;
+    &:hover {
+      color: @heading_color;
+    }
+  }
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* Footer
+/*-----------------------------------------------------------------------------------*/
+.footer {
+  color: #6e6d6d;
+  background-color: #282424;
+
+  .footer-top {
+    padding-top: 57px;
+    padding-bottom: 35px;
+  }
+
+  a {
+    color: #6e6d6d;
+    &:hover {
+      color: @white;
+    }
+  }
+
+  .footer-nav li {
+    display: inline-block;
+    margin-right: 30px;
+    &:last-child {
+      margin-right: 0;
+    }
+    .sub-menu {
+      display: none;
+    }
+  }
+
+  .footer-menu-wrapper,
+  .invitation {
+    margin-bottom: 10px;
+    padding-bottom: 13px;
+    border-bottom: 1px solid #3a3a3a;
+  }
+
+  .footer-nav a,
+  .contact-details,
+  .invitation {
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+
+  .contact-details {
+
+    address {
+      display: inline-block;
+      margin: 0 20px 0 0;
+      i {
+        position: relative;
+        top: -2px;
+      }
+    }
+
+    .phone-number {
+      margin-right: 25px;
+      i {
+        font-size: 30px;
+      }
+    }
+
+    i {
+      font-size: 20px;
+      margin-right: 5px;
+      vertical-align: middle;
+    }
+
+  }
+
+  .social-networks {
+    margin-left: 67px;
+  }
+
+  .soc li a {
+    margin-right: 7px;
+  }
+
+  .social_networks {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      display: inline-block;
+      margin: 0;
+    }
+    a {
+      color: @white;
+      display: block;
+      font-weight: 400;
+      text-decoration: none;
+      text-align: center;
+      width: 19px;
+      height: 26px;
+      line-height: 26px;
+      margin: 0 5px;
+      &:hover {
+        color: @anchor_color;
+      }
+    }
+    i {
+      font-size: 14px;
+    }
+  }
+}
+
+.footer-bottom {
+  background-color: #181515;
+  .container {
+    position: relative;
+    padding-top: 34px;
+    padding-bottom: 15px;
+  }
+  p {
+    font-size: 12px;
+  }
+}
+
+#scroll-top {
+  display: inline-block;
+  width: 38px;
+  height: 34px;
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  margin-top: -17px;
+  background: url('../images/scroll-top.png') #3a3a3a no-repeat center center;
+  &:hover {
+    background-color: darken(#3a3a3a, 10%);
+  }
+}

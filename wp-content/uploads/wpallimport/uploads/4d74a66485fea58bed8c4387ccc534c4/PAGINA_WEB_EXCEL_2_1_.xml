@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[CODIGO]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[HIJO]]></undefined1>
+		<undefined2><![CDATA[NOMBRE]]></undefined2>
+		<undefined3><![CDATA[DESCRPCIÓN CORTA]]></undefined3>
+		<undefined4><![CDATA[DESCRIPCIÓN LARGA]]></undefined4>
+		<undefined5><![CDATA[TAMAÑO]]></undefined5>
+		<undefined6><![CDATA[SUBCATEGORÍA]]></undefined6>
+		<undefined7><![CDATA[MARCA/FABRICANTE]]></undefined7>
+		<undefined8><![CDATA[PRECIO]]></undefined8>
+		<undefined9><![CDATA[DESCUENTO %]]></undefined9>
+		<undefined10><![CDATA[IMAGEN]]></undefined10>
+		<undefined11><![CDATA[ATRIBUTO 1 (ej: color)]]></undefined11>
+		<undefined12><![CDATA[ATRIBUTO 2 (ej: talla)]]></undefined12>
+		<undefined13><![CDATA[DESTACADO]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon001]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[AMATISTA CUARZO]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon001-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon001]]></undefined1>
+		<undefined2><![CDATA[CUARZO INDIVIDIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon doble colchoneta super pillow top, tela tejido de punto con nano particulas de Amatista, que genera energia positiva]]></undefined3>
+		<undefined4><![CDATA[Grosor 38 cms, 312 resortes de hilo continuo infiniflex en forma de "Z"]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[3899]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CUARZO]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon001-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon001]]></undefined1>
+		<undefined2><![CDATA[CUARZO MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon doble colchoneta super pillow top, tela tejido de punto con nano particulas de Amatista, que genera energia positiva]]></undefined3>
+		<undefined4><![CDATA[Grosor 38 cms, 442 resortes de hilo continuo infiniflex en forma de "Z"]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[5199]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CUARZO]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[ ]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon001-QUEEN]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon001]]></undefined1>
+		<undefined2><![CDATA[CUARZO QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon doble colchoneta super pillow top, tela tejido de punto con nano particulas de Amatista, que genera energia positiva]]></undefined3>
+		<undefined4><![CDATA[Grosor 38 cms, 494 resortes de hilo continuo infiniflex en forma de "Z"]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[5999]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CUARZO]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[ ]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon001-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon001]]></undefined1>
+		<undefined2><![CDATA[CUARZO KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon doble colchoneta super pillow top, tela tejido de punto con nano particulas de Amatista, que genera energia positiva]]></undefined3>
+		<undefined4><![CDATA[Grosor 38 cms, 650 resortes de hilo continuo infiniflex en forma de "Z"]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[7665]]></undefined8>
+		<undefined9><![CDATA[ ]]></undefined9>
+		<undefined10><![CDATA[CUARZO]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon002]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[FORTE QUIROPEDIC]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon002-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon002]]></undefined1>
+		<undefined2><![CDATA[FORTE INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchón a base de laminas de microcel aglutinado de alta densidad, soporte extra firme]]></undefined3>
+		<undefined4><![CDATA[Grosor 27 cms, sin resortes, telas tejido de punto en algodón anti acaros.]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[3799]]></undefined8>
+		<undefined9><![CDATA[ ]]></undefined9>
+		<undefined10><![CDATA[FORTE]]></undefined10>
+		<undefined11><![CDATA[ ]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon002-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon002]]></undefined1>
+		<undefined2><![CDATA[FORTE MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchón a base de laminas de microcel aglutinado de alta densidad, soporte extra firme]]></undefined3>
+		<undefined4><![CDATA[texto ejemplo]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[4690]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[FORTE]]></undefined10>
+		<undefined11><![CDATA[ ]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[ ]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon002-QUEEN]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon002]]></undefined1>
+		<undefined2><![CDATA[FORTE QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchón a base de laminas de microcel aglutinado de alta densidad, soporte extra firme]]></undefined3>
+		<undefined4><![CDATA[texto ejemplo]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[5299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[FORTE]]></undefined10>
+		<undefined11><![CDATA[ ]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon002-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon002]]></undefined1>
+		<undefined2><![CDATA[FORTE KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchón a base de laminas de microcel aglutinado de alta densidad, soporte extra firme]]></undefined3>
+		<undefined4><![CDATA[texto ejemplo]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[6690]]></undefined8>
+		<undefined9><![CDATA[ ]]></undefined9>
+		<undefined10><![CDATA[FORTE]]></undefined10>
+		<undefined11><![CDATA[ ]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[ ]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon003]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[VELVET AIR FLEX]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[ ]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon003-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon003]]></undefined1>
+		<undefined2><![CDATA[VELVET INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes independientes embolsados, tela tejido de punto hipo alergenica anti acaros, colchoneta fill ]]></undefined3>
+		<undefined4><![CDATA[Grosor 30 cm, 464 resortes independientes embolsados, soporte suave]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[3599]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[VELVET]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon003-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon003]]></undefined1>
+		<undefined2><![CDATA[VELVET MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes independientes embolsados, tela tejido de punto hipo alergenica anti acaros, colchoneta fill ]]></undefined3>
+		<undefined4><![CDATA[Grosor 30 cm, 638 resortes independientes embolsados, soporte suave]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[4399]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[VELVET]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[ ]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon003-QUEEN]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon003]]></undefined1>
+		<undefined2><![CDATA[VELVET QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes independientes embolsados, tela tejido de punto hipo alergenica anti acaros, colchoneta fill ]]></undefined3>
+		<undefined4><![CDATA[Grosor 30 cm, 696 resortes independientes embolsados, soporte suave]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[5190]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[VELVET]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon003-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon003]]></undefined1>
+		<undefined2><![CDATA[VELVET KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes independientes embolsados, tela tejido de punto hipo alergenica anti acaros, colchoneta fill ]]></undefined3>
+		<undefined4><![CDATA[Grosor 30 cm, 928 resortes independientes embolsados, soporte suave]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[6590]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[VELVET]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon004]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[MAIDEN PERFECT SUPPORT]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon004-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon004]]></undefined1>
+		<undefined2><![CDATA[MAIDEN INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchon con refuerzo perimetral foam encased, unidad de resortes exclusiva perfect support que le da extra soporte a la zona lumbar, soporte semifirme-firme]]></undefined3>
+		<undefined4><![CDATA[Grosor 33 cms, 312  resortes de la exclusiva perfect support, colchoneta fill]]></undefined4>
+		<undefined5><![CDATA[]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SERTA]]></undefined7>
+		<undefined8><![CDATA[4199]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[MAIDEN]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon004-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon004]]></undefined1>
+		<undefined2><![CDATA[MAIDEN MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon con refuerzo perimetral foam encased, unidad de resortes exclusiva perfect support que le da extra soporte a la zona lumbar, soporte semifirme-firme]]></undefined3>
+		<undefined4><![CDATA[Grosor 33 cms, 442  resortes de la exclusiva perfect support, colchoneta fill]]></undefined4>
+		<undefined5><![CDATA[]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SERTA]]></undefined7>
+		<undefined8><![CDATA[5396]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[MAIDEN]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon004-QUEEN]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon004]]></undefined1>
+		<undefined2><![CDATA[MAIDEN QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon con refuerzo perimetral foam encased, unidad de resortes exclusiva perfect support que le da extra soporte a la zona lumbar, soporte semifirme-firme]]></undefined3>
+		<undefined4><![CDATA[Grosor 33 cms, 494  resortes de la exclusiva perfect support, colchoneta fill]]></undefined4>
+		<undefined5><![CDATA[]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SERTA]]></undefined7>
+		<undefined8><![CDATA[6199]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[MAIDEN]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon004-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon004]]></undefined1>
+		<undefined2><![CDATA[MAIDEN KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon con refuerzo perimetral foam encased, unidad de resortes exclusiva perfect support que le da extra soporte a la zona lumbar, soporte semifirme-firme]]></undefined3>
+		<undefined4><![CDATA[Grosor 33 cms, 650  resortes de la exclusiva perfect support, colchoneta fill]]></undefined4>
+		<undefined5><![CDATA[]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SERTA]]></undefined7>
+		<undefined8><![CDATA[7999]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[MAIDEN]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon005]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[PAGE HEAVEN COMFORT]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon005-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon005]]></undefined1>
+		<undefined2><![CDATA[PAGE INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchon Memory-Gel, resortes independientes embolsados, tela strech en algodón hipo alergenica anti acaros, refuerzo perimetral, tecnologia heaven comfort]]></undefined3>
+		<undefined4><![CDATA[Grosor 38  cm, 464 resortes independientes, foam encased, memory-gel, soporte suave]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SERTA]]></undefined7>
+		<undefined8><![CDATA[6349]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[PAGE]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon005-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon005]]></undefined1>
+		<undefined2><![CDATA[PAGE MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon Memory-Gel, resortes independientes embolsados, tela strech en algodón hipo alergenica anti acaros, refuerzo perimetral, tecnologia heaven comfort]]></undefined3>
+		<undefined4><![CDATA[Grosor 38  cm, 638 resortes independientes, foam encased, memory-gel, soporte suave]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SERTA]]></undefined7>
+		<undefined8><![CDATA[7999]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[PAGE]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon005-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon005]]></undefined1>
+		<undefined2><![CDATA[PAGE QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon Memory-Gel, resortes independientes embolsados, tela strech en algodón hipo alergenica anti acaros, refuerzo perimetral, tecnologia heaven comfort]]></undefined3>
+		<undefined4><![CDATA[Grosor 38  cm, 696 resortes independientes, foam encased, memory-gel, soporte suave]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SERTA]]></undefined7>
+		<undefined8><![CDATA[9390]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[PAGE]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon005-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon005]]></undefined1>
+		<undefined2><![CDATA[PAGE KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon Memory-Gel, resortes independientes embolsados, tela strech en algodón hipo alergenica anti acaros, refuerzo perimetral, tecnologia heaven comfort]]></undefined3>
+		<undefined4><![CDATA[Grosor 38  cm, 928 resortes independientes, foam encased, memory-gel, soporte suave]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SERTA]]></undefined7>
+		<undefined8><![CDATA[11990]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[PAGE]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon006]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[WENDY CASTILLA ]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon006-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon006]]></undefined1>
+		<undefined2><![CDATA[CASTILLA INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo en forma de "Z", colchoneta americana, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 28 cms, 312 resortes de hilo continuo, telas en algodón hipo alergenica anti acaros, soporte semifirme]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[2299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CASTILLA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon006-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon006]]></undefined1>
+		<undefined2><![CDATA[CASTILLA MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo en forma de "Z", colchoneta americana, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 28 cms, 442 resortes de hilo continuo, telas en algodón hipo alergenica anti acaros, soporte semifirme]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[2760]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CASTILLA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon006-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon006]]></undefined1>
+		<undefined2><![CDATA[CASTILLA QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo en forma de "Z", colchoneta americana, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 28 cms, 494 resortes de hilo continuo, telas en algodón hipo alergenica anti acaros, soporte semifirme]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[3235]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CASTILLA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon006-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon006]]></undefined1>
+		<undefined2><![CDATA[CASTILLA KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo en forma de "Z", colchoneta americana, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 28 cms, 650 resortes de hilo continuo, telas en algodón hipo alergenica anti acaros, soporte semifirme]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[4143]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CASTILLA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon007]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[CAMELOT BACK SUPPORTER]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon007-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon007]]></undefined1>
+		<undefined2><![CDATA[CAMELOT INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchon con soporte extra en la zona lumbar, certificación del colegio de quiropracticos de México, confort firme, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 26 cms,  345 resortes back supporter, soporte extra firme, colchoneta fill]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[3499]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CAMELOT]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon007-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon007]]></undefined1>
+		<undefined2><![CDATA[CAMELOT MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon con soporte extra en la zona lumbar, certificación del colegio de quiropracticos de México, confort firme, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 26 cms,  483 resortes back supporter, soporte extra firme, colchoneta fill]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[4599]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CAMELOT]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon007-QUEEN]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon007]]></undefined1>
+		<undefined2><![CDATA[CAMELOT QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon con soporte extra en la zona lumbar, certificación del colegio de quiropracticos de México, confort firme, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 26 cms,  529 resortes back supporter, soporte extra firme, colchoneta fill]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[5097]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CAMELOT]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon007-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon007]]></undefined1>
+		<undefined2><![CDATA[CAMELOT KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon con soporte extra en la zona lumbar, certificación del colegio de quiropracticos de México, confort firme, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 26 cms,  713 resortes back supporter, soporte extra firme, colchoneta fill]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[6787]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[CAMELOT]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon008]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[LOMBARDI BACK SUPPORTER]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon008-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon008]]></undefined1>
+		<undefined2><![CDATA[LOMBARDI INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchon con soporte extra en la zona lumbar, certificación del colegio de quiropracticos de México, colchoneta americana reforzada, confort firme, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms,  345 resortes back supporter, soporte extra firme, colchoneta americana super reforzada]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[4,099]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LOMBARDI]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon008-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon008]]></undefined1>
+		<undefined2><![CDATA[LOMBARDI MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon con soporte extra en la zona lumbar, certificación del colegio de quiropracticos de México, colchoneta americana reforzada, confort firme, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms,  483 resortes back supporter, soporte extra firme, colchoneta americana super reforzada]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[5543]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LOMBARDI]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon008-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon008]]></undefined1>
+		<undefined2><![CDATA[LOMBARDI QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon con soporte extra en la zona lumbar, certificación del colegio de quiropracticos de México, colchoneta americana reforzada, confort firme, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms,  529 resortes back supporter, soporte extra firme, colchoneta americana super reforzada]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[6221]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LOMBARDI]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon008-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon008]]></undefined1>
+		<undefined2><![CDATA[LOMBARDI KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon con soporte extra en la zona lumbar, certificación del colegio de quiropracticos de México, colchoneta americana reforzada, confort firme, telas en algodón hipo alergenica anti acaros]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms,  713 resortes back supporter, soporte extra firme, colchoneta americana super reforzada]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[8199]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LOMBARDI]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon009]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[COLUMBIA ORTOFOAM]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon009-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon009]]></undefined1>
+		<undefined2><![CDATA[COLUMBIA MATRIMONIAL ]]></undefined2>
+		<undefined3><![CDATA[Colchon sin resortes, nucleo de softcel y firmcel, soporte firme, colchoneta euro pillow top, telas anti acaros, refuerzo perimetral]]></undefined3>
+		<undefined4><![CDATA[Grosor 36cm, nucleo de softcel y firmcel, soporte firme, no transmite movimientos de pareja]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[7599]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[COLUMBIA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon009-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon009]]></undefined1>
+		<undefined2><![CDATA[COLUMBIA QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon sin resortes, nucleo de softcel y firmcel, soporte firme, colchoneta euro pillow top, telas anti acaros, refuerzo perimetral]]></undefined3>
+		<undefined4><![CDATA[Grosor 36cm, nucleo de softcel y firmcel, soporte firme, no transmite movimientos de pareja]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[8877]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[COLUMBIA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon009-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon009]]></undefined1>
+		<undefined2><![CDATA[COLUMBIA KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon sin resortes, nucleo de softcel y firmcel, soporte firme, colchoneta euro pillow top, telas anti acaros, refuerzo perimetral]]></undefined3>
+		<undefined4><![CDATA[Grosor 36cm, nucleo de softcel y firmcel, soporte firme, no transmite movimientos de pareja]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[11219]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[COLUMBIA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon010]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[KIPLING PERFORMANCE]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon010-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon010]]></undefined1>
+		<undefined2><![CDATA[KIPLING INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta euro pillow top]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms, 374 resortes de hilo continuo, soporte semifirme, telas en algodón y colchoneta euro pillow top]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[3599]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[KIPLING]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon010-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon010]]></undefined1>
+		<undefined2><![CDATA[KIPLING MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta euro pillow top]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms, 510 resortes de hilo continuo, soporte semifirme, telas en algodón y colchoneta euro pillow top]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[4399]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[KIPLING]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon010-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon010]]></undefined1>
+		<undefined2><![CDATA[KIPLING QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta euro pillow top]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms, 578 resortes de hilo continuo, soporte semifirme, telas en algodón y colchoneta euro pillow top]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[4949]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[KIPLING]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon010-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon010]]></undefined1>
+		<undefined2><![CDATA[KIPLING KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta euro pillow top]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms, 748 resortes de hilo continuo, soporte semifirme, telas en algodón y colchoneta euro pillow top]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[6099]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[KIPLING]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon011]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[SWEET VAINILLA COMFORT FLEX]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon011-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon011]]></undefined1>
+		<undefined2><![CDATA[SWEET VAINILLA MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes independientes, telas con tratamientos de aromaterapia en olor a vainilla, foam encased]]></undefined3>
+		<undefined4><![CDATA[Grosor 35cms, 567 resortes independientes embolsados, telas con aromaterapia en olor a vainilla, refuerzo perimetral.]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[6749]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[SWEET VAINILLA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon011-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon011]]></undefined1>
+		<undefined2><![CDATA[SWEET VAINILLLA  QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes independientes, telas con tratamientos de aromaterapia en olor a vainilla, foam encased]]></undefined3>
+		<undefined4><![CDATA[Grosor 35cms, 621 resortes independientes embolsados, telas con aromaterapia en olor a vainilla, refuerzo perimetral.]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[7399]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[SWEET VAINILLA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon011-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon011]]></undefined1>
+		<undefined2><![CDATA[SWEET VAINILLA KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes independientes, telas con tratamientos de aromaterapia en olor a vainilla, foam encased]]></undefined3>
+		<undefined4><![CDATA[Grosor 35cms, 837 resortes independientes embolsados, telas con aromaterapia en olor a vainilla, refuerzo perimetral.]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[9499]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[SWEET VAINILLA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon012]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[LONDON PERFORMANCE]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon012-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon012]]></undefined1>
+		<undefined2><![CDATA[LONDON INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta eurotop]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms, 374 resortes de hilo continuo, soporte semifirme, telas en algodón y colchoneta euro pillow top]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[PRINCIPE BY SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[3287]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LONDON]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon012-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon012]]></undefined1>
+		<undefined2><![CDATA[LONDON MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta eurotop]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms, 510 resortes de hilo continuo, soporte semifirme, telas en algodón y colchoneta euro pillow top]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[PRINCIPE BY SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[4554]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LONDON]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon012-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon012]]></undefined1>
+		<undefined2><![CDATA[LONDON QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta eurotop]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms, 578 resortes de hilo continuo, soporte semifirme, telas en algodón y colchoneta euro pillow top]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[PRINCIPE BY SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[4999]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LONDON]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon012-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon012]]></undefined1>
+		<undefined2><![CDATA[LONDON KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta eurotop]]></undefined3>
+		<undefined4><![CDATA[Grosor 32 cms, 748 resortes de hilo continuo, soporte semifirme, telas en algodón y colchoneta euro pillow top]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[PRINCIPE BY SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[5999]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LONDON]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon013]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[LANCASTER PERFORMANCE]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon013-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon013]]></undefined1>
+		<undefined2><![CDATA[LANCASTER INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta fly top]]></undefined3>
+		<undefined4><![CDATA[Grosor 29 cms, 374 resortes de hilo continuo, soporte semifirme y colchoneta fly top]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[PRINCIPE BY SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[2649]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LANCASTER ]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon013-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon013]]></undefined1>
+		<undefined2><![CDATA[LANCASTER MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta fly top]]></undefined3>
+		<undefined4><![CDATA[Grosor 29 cms, 510 resortes de hilo continuo, soporte semifirme y colchoneta fly top]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[PRINCIPE BY SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[3249]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LANCASTER ]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon013-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon013]]></undefined1>
+		<undefined2><![CDATA[LANCASTER QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta fly top]]></undefined3>
+		<undefined4><![CDATA[Grosor 29 cms, 578 resortes de hilo continuo, soporte semifirme y colchoneta fly top]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[PRINCIPE BY SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[3599]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LANCASTER ]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon013-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon013]]></undefined1>
+		<undefined2><![CDATA[LANCASTER KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon de resortes de hilo continuo, soporte medio, telas en algodón hipo alergenica anti acaros, colchoneta fly top]]></undefined3>
+		<undefined4><![CDATA[Grosor 29 cms, 748 resortes de hilo continuo, soporte semifirme y colchoneta fly top]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[PRINCIPE BY SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[4999]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LANCASTER ]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[basetacto014]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[Base  minimalista]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[basetacto014-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[basetacto014]]></undefined1>
+		<undefined2><![CDATA[BASE TACTO PIEL INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Base tacto piel, madera de pino y pata metallica andromeda]]></undefined3>
+		<undefined4><![CDATA[Base tacto piel, madera de pino y pata metallica andromeda]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Bases]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[1500]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[BASE MINIMALISTA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[basetacto014-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[basetacto014]]></undefined1>
+		<undefined2><![CDATA[BASE TACTO PIEL MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Base tacto piel, madera de pino y pata metallica andromeda]]></undefined3>
+		<undefined4><![CDATA[Base tacto piel, madera de pino y pata metallica andromeda]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Bases]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[1650]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[BASE MINIMALISTA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[basetacto014-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[basetacto014]]></undefined1>
+		<undefined2><![CDATA[BASE TACTO PIEL QUEEN]]></undefined2>
+		<undefined3><![CDATA[Base tacto piel, madera de pino y pata metallica andromeda]]></undefined3>
+		<undefined4><![CDATA[Base tacto piel, madera de pino y pata metallica andromeda]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Bases]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[1899]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[BASE MINIMALISTA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[basetacto014-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[basetacto014]]></undefined1>
+		<undefined2><![CDATA[BASE TACTO PIEL KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Base tacto piel, madera de pino y pata metallica andromeda]]></undefined3>
+		<undefined4><![CDATA[Base tacto piel, madera de pino y pata metallica andromeda]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Bases]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[3000]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[BASE MINIMALISTA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[basetacto015]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[Base Japonesa]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[basetacto015-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[basetacto015]]></undefined1>
+		<undefined2><![CDATA[BASE JAPONESA INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Base de pino forrada en tela, color savana gris plata, marco resaltado de 5cms a las orillas]]></undefined3>
+		<undefined4><![CDATA[Altura 30 cms, base de pino forrada en tela, color savana gris plata, marco resaltado de 5cms a las orillas]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Bases]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[2,099]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[BASE JAPONESA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[basetacto015-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[basetacto015]]></undefined1>
+		<undefined2><![CDATA[BASE JAPONESA MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Base de pino forrada en tela, color savana gris plata, marco resaltado de 5cms a las orillas]]></undefined3>
+		<undefined4><![CDATA[Altura 30 cms, base de pino forrada en tela, color savana gris plata, marco resaltado de 5cms a las orillas]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Bases]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[2599]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[BASE JAPONESA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[basetacto015-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[basetacto015]]></undefined1>
+		<undefined2><![CDATA[BASE JAPONESA QUEEN]]></undefined2>
+		<undefined3><![CDATA[Base de pino forrada en tela, color savana gris plata, marco resaltado de 5cms a las orillas]]></undefined3>
+		<undefined4><![CDATA[Altura 30 cms, base de pino forrada en tela, color savana gris plata, marco resaltado de 5cms a las orillas]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Bases]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[2899]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[BASE JAPONESA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[basetacto015-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[basetacto015]]></undefined1>
+		<undefined2><![CDATA[BASE JAPONESA KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Base de pino forrada en tela, color savana gris plata, marco resaltado de 5cms a las orillas]]></undefined3>
+		<undefined4><![CDATA[Altura 30 cms, base de pino forrada en tela, color savana gris plata, marco resaltado de 5cms a las orillas]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Bases]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[3999]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[BASE JAPONESA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[almohada016-STD]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[almohada015]]></undefined1>
+		<undefined2><![CDATA[ALMOHADA LUXURY PILLOW]]></undefined2>
+		<undefined3><![CDATA[Almohada posture comfort, 100% algodón, hipoalergenica anti acaros, no guarda olores]]></undefined3>
+		<undefined4><![CDATA[Almohada posture comfort, 100% algodón, hipoalergenica anti acaros, no guarda olores]]></undefined4>
+		<undefined5><![CDATA[STD]]></undefined5>
+		<undefined6><![CDATA[Almohadas]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[229]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[LUXURY PILLOW]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[almohada017-MEMORYFOAMSTD]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[almohada017-std]]></undefined1>
+		<undefined2><![CDATA[ALMOHADA MEMORY FOAM FLOW PILLOW]]></undefined2>
+		<undefined3><![CDATA[Almohada memory foam, confort y soporte ideal, tela mesh que permite una mejor circulacion del aire]]></undefined3>
+		<undefined4><![CDATA[Almohada memory foam, confort y soporte ideal, tela mesh que permite una mejor circulacion del aire, soporte firme.]]></undefined4>
+		<undefined5><![CDATA[STD]]></undefined5>
+		<undefined6><![CDATA[Almohadas]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[799]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[MEMORY FOAM FLOW PILLOW]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[almohada018-DOUBLECONFORTSTD]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[almohada018-DOUBLECONFORTSTD]]></undefined1>
+		<undefined2><![CDATA[ALMOHADA DOUBLE COMFORT STD]]></undefined2>
+		<undefined3><![CDATA[ALMOHADA CON DOBLE COMFORT ZONA A) MAYOR FIRMEZA POR SU ESPUMA DE MEMORY FOAM, ZONA B) MAS SUAVE POR SU RELLENO DE PLUMA ALTERNATIVA]]></undefined3>
+		<undefined4><![CDATA[ALMOHADA CON DOBLE COMFORT ZONA A) MAYOR FIRMEZA POR SU ESPUMA DE MEMORY FOAM, ZONA B) MAS SUAVE POR SU RELLENO DE PLUMA ALTERNATIVA]]></undefined4>
+		<undefined5><![CDATA[STD]]></undefined5>
+		<undefined6><![CDATA[Almohadas]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[699]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[DOUBLE CONFORT]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[almohada019-BIORYTMIC]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[almohada019-BIORYTMIC]]></undefined1>
+		<undefined2><![CDATA[ALMOHADA BIORYTMIC SLEEP]]></undefined2>
+		<undefined3><![CDATA[Reduce el nivel de estrés durante el sueño, ayuda a relajar el cuerpo y sentirse mejor, fortalece el balance del cuerpo y concentracion, mejora la condicion corporal ]]></undefined3>
+		<undefined4><![CDATA[Reduce el nivel de estrés durante el sueño, ayuda a relajar el cuerpo y sentirse mejor, fortalece el balance del cuerpo y concentracion, mejora la condicion corporal ]]></undefined4>
+		<undefined5><![CDATA[STD]]></undefined5>
+		<undefined6><![CDATA[Almohadas]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[559]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[BIORYTMIC]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[protectores020]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[Protector de colchon impermeable]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[protectores020-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[protectores020]]></undefined1>
+		<undefined2><![CDATA[PROTECTOR INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Protector de colchon impermeable supreme, repelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></undefined3>
+		<undefined4><![CDATA[Protector de colchon impermeable supreme, 1.02 cms x 1.92 cmsrepelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></undefined4>
+		<undefined5><![CDATA[]]></undefined5>
+		<undefined6><![CDATA[Protector]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[449]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[PROTECTOR DE COLCHON]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[protectores020-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[protectores020]]></undefined1>
+		<undefined2><![CDATA[PROTECTOR MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Protector de colchon impermeable supreme, repelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></undefined3>
+		<undefined4><![CDATA[Protector de colchon impermeable supreme, 1.37 cms x 1.92 cmsrepelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></undefined4>
+		<undefined5><![CDATA[]]></undefined5>
+		<undefined6><![CDATA[Protector]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[499]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[PROTECTOR DE COLCHON]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[protectores020-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[protectores020]]></undefined1>
+		<undefined2><![CDATA[PROTECTOR QUEEN]]></undefined2>
+		<undefined3><![CDATA[Protector de colchon impermeable supreme, repelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></undefined3>
+		<undefined4><![CDATA[Protector de colchon impermeable supreme, 1.52 cms x 1.92 cmsrepelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></undefined4>
+		<undefined5><![CDATA[]]></undefined5>
+		<undefined6><![CDATA[Protector]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[PROTECTOR DE COLCHON]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[protectores020-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[protectores020]]></undefined1>
+		<undefined2><![CDATA[PROTECTOR KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Protector de colchon impermeable supreme, repelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></undefined3>
+		<undefined4><![CDATA[Protector de colchon impermeable supreme, 2.02 cms x 1.92 cmsrepelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></undefined4>
+		<undefined5><![CDATA[]]></undefined5>
+		<undefined6><![CDATA[Protector]]></undefined6>
+		<undefined7><![CDATA[SPRING AIR]]></undefined7>
+		<undefined8><![CDATA[649]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[PROTECTOR DE COLCHON]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon021]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[]]></undefined1>
+		<undefined2><![CDATA[AGATA AMATISTA]]></undefined2>
+		<undefined3><![CDATA[]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon021-IND]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon021]]></undefined1>
+		<undefined2><![CDATA[AGATA INDIVIDUAL]]></undefined2>
+		<undefined3><![CDATA[Colchon colchoneta super pillow top, tela tejido de punto con nano particulas de Amatista, que genera energia positiva]]></undefined3>
+		<undefined4><![CDATA[Grosor 34 cms, 312 resortes de hilo continuo infiniflex en forma de "Z"]]></undefined4>
+		<undefined5><![CDATA[INDIVIDUAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[AGATA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[SI]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon021-MAT]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon021]]></undefined1>
+		<undefined2><![CDATA[AGATA MATRIMONIAL]]></undefined2>
+		<undefined3><![CDATA[Colchon colchoneta super pillow top, tela tejido de punto con nano particulas de Amatista, que genera energia positiva]]></undefined3>
+		<undefined4><![CDATA[Grosor 34 cms, 442 resortes de hilo continuo infiniflex en forma de "Z"]]></undefined4>
+		<undefined5><![CDATA[MATRIMONIAL]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[AGATA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon021-QS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon021]]></undefined1>
+		<undefined2><![CDATA[AGATA QUEEN]]></undefined2>
+		<undefined3><![CDATA[Colchon colchoneta super pillow top, tela tejido de punto con nano particulas de Amatista, que genera energia positiva]]></undefined3>
+		<undefined4><![CDATA[Grosor 34 cms, 494 resortes de hilo continuo infiniflex en forma de "Z"]]></undefined4>
+		<undefined5><![CDATA[QUEEN]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[AGATA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+	<node>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[colchon021-KS]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined1><![CDATA[colchon021]]></undefined1>
+		<undefined2><![CDATA[AGATA KING SIZE]]></undefined2>
+		<undefined3><![CDATA[Colchon colchoneta super pillow top, tela tejido de punto con nano particulas de Amatista, que genera energia positiva]]></undefined3>
+		<undefined4><![CDATA[Grosor 34 cms, 650 resortes de hilo continuo infiniflex en forma de "Z"]]></undefined4>
+		<undefined5><![CDATA[KING SIZE]]></undefined5>
+		<undefined6><![CDATA[Colchones]]></undefined6>
+		<undefined7><![CDATA[WENDY]]></undefined7>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[AGATA]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+	</node>
+</data>

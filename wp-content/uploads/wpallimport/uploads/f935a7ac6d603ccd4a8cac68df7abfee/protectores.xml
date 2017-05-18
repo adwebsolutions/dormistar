@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<codigo><![CDATA[protectores020]]></codigo>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Protector de colchon impermeable]]></nombre>
+		<descrpcincorta><![CDATA[]]></descrpcincorta>
+		<descripcinlarga><![CDATA[]]></descripcinlarga>
+		<tamao><![CDATA[INDIVIDUAL|MATRIMONIAL|QUEEN|KING SIZE]]></tamao>
+		<subcategora><![CDATA[Protector]]></subcategora>
+		<marcafabricante><![CDATA[]]></marcafabricante>
+		<precio><![CDATA[]]></precio>
+		<descuento><![CDATA[]]></descuento>
+		<imagen><![CDATA[]]></imagen>
+		<atributo1ejcolor><![CDATA[]]></atributo1ejcolor>
+		<atributo2ejtalla><![CDATA[]]></atributo2ejtalla>
+		<destacado><![CDATA[]]></destacado>
+	</node>
+	<node>
+		<codigo><![CDATA[protectores020-IND]]></codigo>
+		<hijo><![CDATA[protectores020]]></hijo>
+		<nombre><![CDATA[PROTECTOR INDIVIDUAL]]></nombre>
+		<descrpcincorta><![CDATA[Protector de colchon impermeable supreme, repelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></descrpcincorta>
+		<descripcinlarga><![CDATA[Protector de colchon impermeable supreme, 1,02 cms x 1,92 cmsrepelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></descripcinlarga>
+		<tamao><![CDATA[INDIVIDUAL]]></tamao>
+		<subcategora><![CDATA[Protector]]></subcategora>
+		<marcafabricante><![CDATA[SPRING AIR]]></marcafabricante>
+		<precio><![CDATA[449]]></precio>
+		<descuento><![CDATA[]]></descuento>
+		<imagen><![CDATA[PROTECTOR DE COLCHON]]></imagen>
+		<atributo1ejcolor><![CDATA[]]></atributo1ejcolor>
+		<atributo2ejtalla><![CDATA[]]></atributo2ejtalla>
+		<destacado><![CDATA[SI]]></destacado>
+	</node>
+	<node>
+		<codigo><![CDATA[protectores020-MAT]]></codigo>
+		<hijo><![CDATA[protectores020]]></hijo>
+		<nombre><![CDATA[PROTECTOR MATRIMONIAL]]></nombre>
+		<descrpcincorta><![CDATA[Protector de colchon impermeable supreme, repelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></descrpcincorta>
+		<descripcinlarga><![CDATA[Protector de colchon impermeable supreme, 1,37 cms x 1,92 cmsrepelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></descripcinlarga>
+		<tamao><![CDATA[MATRIMONIAL]]></tamao>
+		<subcategora><![CDATA[Protector]]></subcategora>
+		<marcafabricante><![CDATA[SPRING AIR]]></marcafabricante>
+		<precio><![CDATA[499]]></precio>
+		<descuento><![CDATA[]]></descuento>
+		<imagen><![CDATA[PROTECTOR DE COLCHON]]></imagen>
+		<atributo1ejcolor><![CDATA[]]></atributo1ejcolor>
+		<atributo2ejtalla><![CDATA[]]></atributo2ejtalla>
+		<destacado><![CDATA[]]></destacado>
+	</node>
+	<node>
+		<codigo><![CDATA[protectores020-QS]]></codigo>
+		<hijo><![CDATA[protectores020]]></hijo>
+		<nombre><![CDATA[PROTECTOR QUEEN]]></nombre>
+		<descrpcincorta><![CDATA[Protector de colchon impermeable supreme, repelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></descrpcincorta>
+		<descripcinlarga><![CDATA[Protector de colchon impermeable supreme, 1,52 cms x 1,92 cmsrepelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></descripcinlarga>
+		<tamao><![CDATA[QUEEN]]></tamao>
+		<subcategora><![CDATA[Protector]]></subcategora>
+		<marcafabricante><![CDATA[SPRING AIR]]></marcafabricante>
+		<precio><![CDATA[549]]></precio>
+		<descuento><![CDATA[]]></descuento>
+		<imagen><![CDATA[PROTECTOR DE COLCHON]]></imagen>
+		<atributo1ejcolor><![CDATA[]]></atributo1ejcolor>
+		<atributo2ejtalla><![CDATA[]]></atributo2ejtalla>
+		<destacado><![CDATA[]]></destacado>
+	</node>
+	<node>
+		<codigo><![CDATA[protectores020-KS]]></codigo>
+		<hijo><![CDATA[protectores020]]></hijo>
+		<nombre><![CDATA[PROTECTOR KING SIZE]]></nombre>
+		<descrpcincorta><![CDATA[Protector de colchon impermeable supreme, repelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></descrpcincorta>
+		<descripcinlarga><![CDATA[Protector de colchon impermeable supreme, 2,02 cms x 1,92 cmsrepelente al agua hipo alergenico anti acaros, Auto ajustable elastico, no guarda olores]]></descripcinlarga>
+		<tamao><![CDATA[KING SIZE]]></tamao>
+		<subcategora><![CDATA[Protector]]></subcategora>
+		<marcafabricante><![CDATA[SPRING AIR]]></marcafabricante>
+		<precio><![CDATA[649]]></precio>
+		<descuento><![CDATA[]]></descuento>
+		<imagen><![CDATA[PROTECTOR DE COLCHON]]></imagen>
+		<atributo1ejcolor><![CDATA[]]></atributo1ejcolor>
+		<atributo2ejtalla><![CDATA[]]></atributo2ejtalla>
+		<destacado><![CDATA[]]></destacado>
+	</node>
+</data>

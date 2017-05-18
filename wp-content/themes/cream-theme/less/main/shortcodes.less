@@ -1,0 +1,129 @@
+/*-----------------------------------------------------------------------------------*/
+/* Shortcode
+/*-----------------------------------------------------------------------------------*/
+// Toggle and  Accordion
+.toggle, .accordion {
+  margin-bottom: 30px;
+  padding: 0;
+ > dt {
+    color: @white;
+    font-size: 16px;
+    font-weight: normal;
+    position: relative;
+    padding: 16px 50px 16px 20px;
+    margin: 12px 0 0;
+    background-color: #3a4543;
+    cursor: pointer;
+    &:hover,
+    &.current{
+      background-color: #66d9c1;
+    }
+    &:first-of-type{
+      margin-top: 0;
+    }
+    &:after {
+      font-size: 13px;
+      display: block;
+      position: absolute;
+      top: 18px;
+      right: 20px;
+      font-family: FontAwesome;
+      text-rendering: auto;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      content: "\f067";
+    }
+    &.current:after {
+      content: "\f068";
+    }
+  }
+ >  dd {
+    display: none;
+    padding: 20px;
+    margin: 0 0 12px;
+    border: 1px solid #66d9c1;
+    border-top: 0;
+    line-height: 24px;
+  }
+}
+
+
+// Tabs
+.tabs-nav {
+  margin: 0 !important;
+  padding: 0 !important;
+  li {
+    font-size: 14px;
+    float: left;
+    margin: 0;
+    list-style: none;
+    padding: 14px 15px 14px;
+    text-align: center;
+    cursor: pointer;
+    background-color: #3a4543;
+    color: #fff;
+    /*border-top: 1px solid #66d9c1;*/
+    border-right: 1px solid #66d9c1;
+    border-bottom: none;
+    &:last-child{
+     /*border-right: 1px solid #66d9c1;*/
+    }
+    &:hover {
+      background-color: #66d9c1;
+    }
+    &.active {
+      background-color: #66d9c1;
+      /*border-top: 3px solid #3a4543;*/
+      /*margin-bottom: -2px;
+      padding-top: 13px;*/
+    }
+  }
+}
+
+
+.tabs-container {
+  display: block;
+  margin: 0 0 30px;
+  border: 1px solid #66d9c1;
+  border-top-width: 3px;
+  padding: 20px;
+  h1,h2,h3,h4,h5,h6{
+    font-family: @font-family-base;
+  }
+}
+
+
+//alert
+p.message {
+  padding: 20px 25px;
+  position: relative;
+  .close {
+    line-height: 11px;
+    position: absolute;
+    top: 10px;
+    right: 11px;
+    &:focus {
+      outline: none;
+    }
+  }
+}
+
+.bg-info {
+  border-left: 3px solid #afd9ee;
+  background-color: #d9edf7;
+}
+.bg-warning {
+  border-left: 3px solid #f7ecb5;
+  background-color:  #fcf8e3;
+}
+.bg-success {
+  border-left: 3px solid #c1e2b3;
+  background-color: #dff0d8;
+}
+.bg-danger {
+  border-left: 3px solid #e4b9b9;
+  background-color: #f2dede;
+}
+
+
+

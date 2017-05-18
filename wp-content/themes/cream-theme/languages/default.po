@@ -1,0 +1,2263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cream\n"
+"POT-Creation-Date: 2017-05-19 11:41-0400\n"
+"PO-Revision-Date: 2017-05-19 11:41-0400\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: tgm\n"
+"X-Poedit-SearchPathExcluded-2: less\n"
+"X-Poedit-SearchPathExcluded-3: include/twitter\n"
+"X-Poedit-SearchPathExcluded-4: node_modules\n"
+"X-Poedit-SearchPathExcluded-5: theme-options/extension-loader\n"
+
+#: 404.php:16
+msgid ""
+"Look like something went wrong! The page you were looking for is not here"
+msgstr ""
+
+#: 404.php:17
+msgid "Visit Homepage"
+msgstr ""
+
+#: banners/archive-banner.php:11 banners/archive-banner.php:13
+#: banners/archive-banner.php:15
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: banners/archive-banner.php:20 banners/blog-page-banner.php:21
+msgid "Blog"
+msgstr ""
+
+#: banners/archive-banner.php:20
+msgid "Archives"
+msgstr ""
+
+#: banners/search-banner.php:3 header.php:165
+msgid "Search"
+msgstr ""
+
+#: comments.php:14
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Comments are closed."
+msgstr ""
+
+#: contact-template.php:59
+msgid "Name"
+msgstr ""
+
+#: contact-template.php:60
+msgid "* Please provide your name"
+msgstr ""
+
+#: contact-template.php:63 theme-options/theme-options-config.php:1562
+msgid "Email"
+msgstr ""
+
+#: contact-template.php:64
+msgid "* Please provide a valid email address"
+msgstr ""
+
+#: contact-template.php:67
+msgid "Phone"
+msgstr ""
+
+#: contact-template.php:68
+msgid "* Please provide only digits as phone number"
+msgstr ""
+
+#: contact-template.php:72
+msgid "Message"
+msgstr ""
+
+#: contact-template.php:73
+msgid "* Please provide your message"
+msgstr ""
+
+#: contact-template.php:75
+msgid "All HTML tags will be removed."
+msgstr ""
+
+#: contact-template.php:80
+msgid "SUBMIT"
+msgstr ""
+
+#: faqs-template.php:72
+msgid "All FAQs"
+msgstr ""
+
+#: faqs-template.php:130
+msgid "No FAQ found!"
+msgstr ""
+
+#: functions.php:26
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:27
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:134
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:135
+msgid "This sidebar is for blog, blog posts."
+msgstr ""
+
+#: functions.php:145
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:146
+msgid "This sidebar is for pages."
+msgstr ""
+
+#: functions.php:156
+msgid "FAQs Sidebar"
+msgstr ""
+
+#: functions.php:157
+msgid "This sidebar is for FAQs page template."
+msgstr ""
+
+#: functions.php:167
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:168
+msgid "This sidebar is for shop page"
+msgstr ""
+
+#: functions.php:189
+msgid " < "
+msgstr ""
+
+#: functions.php:190
+msgid " > "
+msgstr ""
+
+#: functions.php:827
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: functions.php:828
+msgid "Google Profile URL"
+msgstr ""
+
+#: functions.php:829
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: functions.php:830
+msgid "Linkedin Profile URL"
+msgstr ""
+
+#: functions.php:831
+msgid "RSS URL"
+msgstr ""
+
+#: header.php:109 include/inspiry-woocommerce-functions.php:236
+msgid "No products in the cart."
+msgstr ""
+
+#: header.php:131 header.php:162
+msgid "Search Products..."
+msgstr ""
+
+#: header.php:131 header.php:162
+msgid "Search For:"
+msgstr ""
+
+#: include/contact_form_handler.php:38
+msgid "Busted!"
+msgstr ""
+
+#: include/contact_form_handler.php:47
+msgid "Target Email address is not properly configured!"
+msgstr ""
+
+#: include/contact_form_handler.php:57
+msgid "Provided Email address is invalid!"
+msgstr ""
+
+#: include/contact_form_handler.php:60
+msgid "New message sent by"
+msgstr ""
+
+#: include/contact_form_handler.php:60
+msgid "using contact form at"
+msgstr ""
+
+#: include/contact_form_handler.php:62
+msgid "You have received a message from: "
+msgstr ""
+
+#: include/contact_form_handler.php:65
+msgid "Phone Number : "
+msgstr ""
+
+#: include/contact_form_handler.php:68
+msgid "Their additional message is as follows."
+msgstr ""
+
+#: include/contact_form_handler.php:70
+msgid "You can contact "
+msgstr ""
+
+#: include/contact_form_handler.php:70
+msgid " via email, "
+msgstr ""
+
+#: include/contact_form_handler.php:81
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: include/contact_form_handler.php:83
+msgid "Server Error: WordPress mail method failed!"
+msgstr ""
+
+#: include/contact_form_handler.php:87
+msgid "Invalid Request !"
+msgstr ""
+
+#: include/faq-post-type.php:8
+msgid "FAQs"
+msgstr ""
+
+#: include/faq-post-type.php:9
+msgid "FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:10 include/portfolio-post-type.php:10
+#: include/testimonial-post-type.php:10
+msgid "Add New"
+msgstr ""
+
+#: include/faq-post-type.php:11
+msgid "Add New FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:12
+msgid "Edit FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:13
+msgid "New FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:14
+msgid "View FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:15
+msgid "Search FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:16
+msgid "No FAQs found"
+msgstr ""
+
+#: include/faq-post-type.php:17
+msgid "No FAQs found in Trash"
+msgstr ""
+
+#: include/faq-post-type.php:46 include/faq-post-type.php:60
+msgid "FAQ Groups"
+msgstr ""
+
+#: include/faq-post-type.php:47
+msgid "FAQ Group"
+msgstr ""
+
+#: include/faq-post-type.php:48
+msgid "Search FAQ Groups"
+msgstr ""
+
+#: include/faq-post-type.php:49
+msgid "Popular FAQ Groups"
+msgstr ""
+
+#: include/faq-post-type.php:50
+msgid "All FAQ Groups"
+msgstr ""
+
+#: include/faq-post-type.php:51
+msgid "Parent FAQ Group"
+msgstr ""
+
+#: include/faq-post-type.php:52
+msgid "Parent FAQ Group:"
+msgstr ""
+
+#: include/faq-post-type.php:53
+msgid "Edit FAQ Group"
+msgstr ""
+
+#: include/faq-post-type.php:54
+msgid "Update FAQ Group"
+msgstr ""
+
+#: include/faq-post-type.php:55
+msgid "Add New FAQ Group"
+msgstr ""
+
+#: include/faq-post-type.php:56
+msgid "New FAQ Group Name"
+msgstr ""
+
+#: include/faq-post-type.php:57
+msgid "Separate FAQ Groups with commas"
+msgstr ""
+
+#: include/faq-post-type.php:58
+msgid "Add or Remove FAQ Groups"
+msgstr ""
+
+#: include/faq-post-type.php:59
+msgid "Choose from the most used FAQ Groups"
+msgstr ""
+
+#: include/faq-post-type.php:71
+msgid "faq-group"
+msgstr ""
+
+#: include/inspiry-woocommerce-functions.php:139
+msgid "Share on Facebook"
+msgstr ""
+
+#: include/inspiry-woocommerce-functions.php:147
+msgid "Share on Twitter"
+msgstr ""
+
+#: include/inspiry-woocommerce-functions.php:157
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: include/inspiry-woocommerce-functions.php:165
+msgid "Share on Google+"
+msgstr ""
+
+#: include/inspiry-woocommerce-functions.php:209 woocommerce/cart/cart.php:114
+msgid "Remove this item"
+msgstr ""
+
+#: include/inspiry-woocommerce-functions.php:217 woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: include/inspiry-woocommerce-functions.php:230
+msgid "Cart Subtotal"
+msgstr ""
+
+#: include/inspiry-woocommerce-functions.php:232
+msgid "View Cart"
+msgstr ""
+
+#: include/inspiry-woocommerce-functions.php:233 woocommerce/cart/cart.php:128
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: include/portfolio-post-type.php:8 theme-options/theme-options-config.php:451
+msgid "Portfolio"
+msgstr ""
+
+#: include/portfolio-post-type.php:9
+msgid "Portfolio Item"
+msgstr ""
+
+#: include/portfolio-post-type.php:11
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: include/portfolio-post-type.php:12
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: include/portfolio-post-type.php:13
+msgid "New Portfolio Item"
+msgstr ""
+
+#: include/portfolio-post-type.php:14
+msgid "View Portfolio Item"
+msgstr ""
+
+#: include/portfolio-post-type.php:15
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: include/portfolio-post-type.php:16
+msgid "No Portfolio Item found"
+msgstr ""
+
+#: include/portfolio-post-type.php:17
+msgid "No Portfolio Item found in Trash"
+msgstr ""
+
+#: include/portfolio-post-type.php:33
+msgid "portfolio-item"
+msgstr ""
+
+#: include/portfolio-post-type.php:48
+msgid "Portfolio Item Types"
+msgstr ""
+
+#: include/portfolio-post-type.php:49
+msgid "Portfolio Item Type"
+msgstr ""
+
+#: include/portfolio-post-type.php:50
+msgid "Search Portfolio Item Types"
+msgstr ""
+
+#: include/portfolio-post-type.php:51
+msgid "Popular Portfolio Item Types"
+msgstr ""
+
+#: include/portfolio-post-type.php:52
+msgid "All Portfolio Item Types"
+msgstr ""
+
+#: include/portfolio-post-type.php:53
+msgid "Parent Portfolio Item Type"
+msgstr ""
+
+#: include/portfolio-post-type.php:54
+msgid "Parent Portfolio Item Type:"
+msgstr ""
+
+#: include/portfolio-post-type.php:55
+msgid "Edit Portfolio Item Type"
+msgstr ""
+
+#: include/portfolio-post-type.php:56
+msgid "Update Portfolio Item Type"
+msgstr ""
+
+#: include/portfolio-post-type.php:57
+msgid "Add New Portfolio Item Type"
+msgstr ""
+
+#: include/portfolio-post-type.php:58
+msgid "New Portfolio Item Type Name"
+msgstr ""
+
+#: include/portfolio-post-type.php:59
+msgid "Separate Portfolio Item Types with commas"
+msgstr ""
+
+#: include/portfolio-post-type.php:60
+msgid "Add or Remove Portfolio Item Types"
+msgstr ""
+
+#: include/portfolio-post-type.php:61
+msgid "Choose from the most used Portfolio Item Types"
+msgstr ""
+
+#: include/portfolio-post-type.php:62
+msgid "Types"
+msgstr ""
+
+#: include/portfolio-post-type.php:73
+msgid "portfolio-item-type"
+msgstr ""
+
+#: include/portfolio-post-type.php:88
+msgid "Portfolio Item Title"
+msgstr ""
+
+#: include/portfolio-post-type.php:89
+msgid "Thumbnail"
+msgstr ""
+
+#: include/portfolio-post-type.php:90
+msgid "Type"
+msgstr ""
+
+#: include/portfolio-post-type.php:91
+msgid "Publish Time"
+msgstr ""
+
+#: include/portfolio-post-type.php:115
+msgid "No Thumbnail"
+msgstr ""
+
+#: include/testimonial-post-type.php:8
+#: theme-options/theme-options-config.php:452
+msgid "Testimonials"
+msgstr ""
+
+#: include/testimonial-post-type.php:9 meta-box/config-meta-boxes.php:152
+msgid "Testimonial"
+msgstr ""
+
+#: include/testimonial-post-type.php:11
+msgid "Add New Testimonial"
+msgstr ""
+
+#: include/testimonial-post-type.php:12
+msgid "Edit Testimonial"
+msgstr ""
+
+#: include/testimonial-post-type.php:13
+msgid "New Testimonial"
+msgstr ""
+
+#: include/testimonial-post-type.php:14
+msgid "View Testimonial"
+msgstr ""
+
+#: include/testimonial-post-type.php:15
+msgid "Search Testimonial"
+msgstr ""
+
+#: include/testimonial-post-type.php:16
+msgid "No Testimonial found"
+msgstr ""
+
+#: include/testimonial-post-type.php:17
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: include/theme_comment.php:17
+msgid "Pingback:"
+msgstr ""
+
+#: include/theme_comment.php:17
+msgid "(Edit)"
+msgstr ""
+
+#: include/theme_comment.php:34
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: loop.php:19
+msgid "No Posts Found!"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:22
+msgid "Video Information"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:28 meta-box/config-meta-boxes.php:196
+msgid "Video Embed Code"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:29
+msgid ""
+"Provide the video embed code and remove the width and height attributes."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:42
+msgid "Link Information"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:48
+msgid "Link Title Text"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:54
+msgid "Link URL"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:65
+msgid "Gallery Settings"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:72 meta-box/config-meta-boxes.php:189
+msgid "Gallery Images"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:74
+msgid ""
+"An image should have minimum width of 770px and minimum height of 480px "
+"( Bigger size images will be cropped automatically)."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:85
+msgid "Audio Settings"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:91
+msgid "MP3 Audio File"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:93
+msgid "Upload the MP3 audio file."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:98
+msgid "OGG Audio File"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:100
+msgid "Upload the OGG audio file ( for fallback )"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:105
+msgid "WAV Audio File"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:107
+msgid "Upload the WAV audio file ( for fallback )"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:112
+msgid "Audio Embed Code"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:113
+msgid ""
+"If you do not have audio files to upload, then you can provide audio embed "
+"code here."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:126
+msgid "Quote Information"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:132
+msgid "Quote Text"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:134
+msgid "Provide quote text here."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:140
+msgid "Quote Author"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:142
+msgid "Provide quote author name."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:158
+msgid "Testimonial Text"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:165
+msgid "Testimonial Author"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:168
+msgid "Example: John Doe"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:171
+msgid "Testimonial Author URL"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:174
+msgid "Example: http://www.authorsite.com"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:183
+msgid "Portfolio Settings"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:191
+msgid "Recommended minimum width is 1170px and minimum height is 700px."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:197
+msgid ""
+"Provide the video embed code and remove the width and height attributes. "
+"( Video will be displayed only if no gallery image is uploaded )"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:210
+msgid "Banner Image"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:212
+#: theme-options/theme-options-config.php:272
+msgid ""
+"Banner image should have minimum width of 2000px and minimum height of 190px."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:217
+msgid "Banner Title"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:219
+msgid ""
+"Please provide the custom Banner Title, Otherwise the default title will be "
+"displayed."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:223
+msgid "Banner Title Display"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:225
+msgid "You can show or hide the banner title."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:229 meta-box/config-meta-boxes.php:254
+#: theme-options/theme-options-config.php:265
+#: theme-options/theme-options-config.php:283
+#: theme-options/theme-options-config.php:315
+#: theme-options/theme-options-config.php:378
+#: theme-options/theme-options-config.php:547
+#: theme-options/theme-options-config.php:924
+#: theme-options/theme-options-config.php:1315
+#: theme-options/theme-options-config.php:1338
+#: theme-options/theme-options-config.php:1377
+#: theme-options/theme-options-config.php:1402
+#: theme-options/theme-options-config.php:1444
+#: theme-options/theme-options-config.php:1493
+#: theme-options/theme-options-config.php:1543
+#: theme-options/theme-options-config.php:1575
+#: theme-options/theme-options-config.php:1652
+msgid "Hide"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:230 meta-box/config-meta-boxes.php:255
+#: theme-options/theme-options-config.php:264
+#: theme-options/theme-options-config.php:282
+msgid "Show"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:238
+msgid "Banner Settings"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:248
+msgid "Page Title Display"
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:250
+msgid "You can show or hide the page title."
+msgstr ""
+
+#: meta-box/config-meta-boxes.php:262
+msgid "Banner and Title Settings"
+msgstr ""
+
+#: portfolio/common.php:38
+msgid "All"
+msgstr ""
+
+#: portfolio/common.php:137 taxonomy-portfolio-item-type.php:53
+msgid "No portfolio item found!"
+msgstr ""
+
+#: post-formats/link.php:41 post-formats/quote.php:42 single.php:44
+#: template-parts/blog-post.php:28
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: search.php:13
+msgid "Search Results for:"
+msgstr ""
+
+#: single-portfolio-item.php:78
+msgid "Related Items"
+msgstr ""
+
+#: single.php:50 template-parts/blog-post.php:34
+#: template-parts/home-blog-post.php:37
+msgid "0"
+msgstr ""
+
+#: single.php:50 template-parts/blog-post.php:34
+#: template-parts/home-blog-post.php:37
+msgid "1"
+msgstr ""
+
+#: single.php:50 template-parts/blog-post.php:34
+#: template-parts/home-blog-post.php:37
+msgid "%"
+msgstr ""
+
+#: template-parts/blog-post.php:41 template-parts/common-excerpt.php:14
+msgid "Read More"
+msgstr ""
+
+#: template-parts/home-best-selling-products.php:41
+msgid "Best selling products section requires WooCommerce plugin"
+msgstr ""
+
+#: template-parts/home-blog-post.php:24
+msgid "By"
+msgstr ""
+
+#: template-parts/home-blog-post.php:27
+msgid "on"
+msgstr ""
+
+#: template-parts/home-featured-products.php:41
+msgid "Featured products section requires WooCommerce plugin"
+msgstr ""
+
+#: template-parts/home-product-categories.php:45
+msgid "Product categories section requires WooCommerce plugin"
+msgstr ""
+
+#: template-parts/home-recent-products.php:41
+msgid "Recent products section requires WooCommerce plugin"
+msgstr ""
+
+#: template-parts/home-sale-products.php:41
+msgid "Sale products section requires WooCommerce plugin"
+msgstr ""
+
+#: template-parts/home-slider.php:30
+msgid "EXPLORE MORE"
+msgstr ""
+
+#: theme-options/theme-options-config.php:172
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: theme-options/theme-options-config.php:179
+#: theme-options/theme-options-config.php:182
+msgid "Current theme preview"
+msgstr ""
+
+#: theme-options/theme-options-config.php:189
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: theme-options/theme-options-config.php:190
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: theme-options/theme-options-config.php:191
+msgid "Tags"
+msgstr ""
+
+#: theme-options/theme-options-config.php:196
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: theme-options/theme-options-config.php:196
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: theme-options/theme-options-config.php:225
+#: theme-options/theme-options-config.php:1850
+msgid "Header"
+msgstr ""
+
+#: theme-options/theme-options-config.php:226
+msgid "This section contains options related to website header."
+msgstr ""
+
+#: theme-options/theme-options-config.php:233
+msgid "Favicon"
+msgstr ""
+
+#: theme-options/theme-options-config.php:234
+msgid ""
+"Upload a 16px by 16px PNG image that will represent your website favicon."
+msgstr ""
+
+#: theme-options/theme-options-config.php:240
+msgid "Logo"
+msgstr ""
+
+#: theme-options/theme-options-config.php:241
+msgid ""
+"Upload logo image for your Website. Otherwise site title will be displayed "
+"in place of logo."
+msgstr ""
+
+#: theme-options/theme-options-config.php:253
+msgid "Top Margin for Main Menu"
+msgstr ""
+
+#: theme-options/theme-options-config.php:254
+msgid ""
+"You can provide the top margin for main menu, To make it look well in the "
+"middle of your uploaded logo. Simply provide numeric value without px unit."
+msgstr ""
+
+#: theme-options/theme-options-config.php:262
+msgid "Product Search Form in Header"
+msgstr ""
+
+#: theme-options/theme-options-config.php:271
+msgid "Default Banner Image"
+msgstr ""
+
+#: theme-options/theme-options-config.php:273
+msgid ""
+"Default banner image will be displayed on all the pages where banner image "
+"is not overridden by page specific banner settings."
+msgstr ""
+
+#: theme-options/theme-options-config.php:278
+msgid "WPML Language Switcher Flags"
+msgstr ""
+
+#: theme-options/theme-options-config.php:279
+msgid "Do you want to display WPML language switcher flags in header top bar ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:280
+msgid "This option only works if WPML plugin is installed."
+msgstr ""
+
+#: theme-options/theme-options-config.php:288
+msgid "Quick JavaScript"
+msgstr ""
+
+#: theme-options/theme-options-config.php:289
+msgid "You can paste your JavaScript code here."
+msgstr ""
+
+#: theme-options/theme-options-config.php:301
+msgid "Home"
+msgstr ""
+
+#: theme-options/theme-options-config.php:303
+msgid "This section contains options related to website homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:310
+msgid "Homepage Slider"
+msgstr ""
+
+#: theme-options/theme-options-config.php:311
+msgid "Do you want to display slider on homepage ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:312
+msgid "Image banner will be displayed if slider is disabled"
+msgstr ""
+
+#: theme-options/theme-options-config.php:314
+#: theme-options/theme-options-config.php:377
+#: theme-options/theme-options-config.php:546
+#: theme-options/theme-options-config.php:923
+#: theme-options/theme-options-config.php:1314
+#: theme-options/theme-options-config.php:1337
+#: theme-options/theme-options-config.php:1376
+#: theme-options/theme-options-config.php:1401
+#: theme-options/theme-options-config.php:1443
+#: theme-options/theme-options-config.php:1492
+#: theme-options/theme-options-config.php:1542
+#: theme-options/theme-options-config.php:1574
+#: theme-options/theme-options-config.php:1651
+msgid "Display"
+msgstr ""
+
+#: theme-options/theme-options-config.php:320
+msgid "Slider Type"
+msgstr ""
+
+#: theme-options/theme-options-config.php:321
+msgid "Select the type of slider that you want to use."
+msgstr ""
+
+#: theme-options/theme-options-config.php:323
+msgid "Default Slider"
+msgstr ""
+
+#: theme-options/theme-options-config.php:324
+msgid "Revolution Slider"
+msgstr ""
+
+#: theme-options/theme-options-config.php:332
+msgid "Revolution Slider Alias"
+msgstr ""
+
+#: theme-options/theme-options-config.php:333
+msgid "If you want to use revolution slider then provide its alias here."
+msgstr ""
+
+#: theme-options/theme-options-config.php:334
+msgid "For more information consult documentation."
+msgstr ""
+
+#: theme-options/theme-options-config.php:340
+msgid "Homepage Slider Slides"
+msgstr ""
+
+#: theme-options/theme-options-config.php:341
+msgid "Add slides for homepage slider."
+msgstr ""
+
+#: theme-options/theme-options-config.php:342
+msgid ""
+"The recommended image size is 2000px by 800px. You can use bigger or smaller "
+"image size but try to keep the width to height ratio 100px to 40px and use "
+"the exactly same size images for all slides."
+msgstr ""
+
+#: theme-options/theme-options-config.php:349
+msgid "Slide title text"
+msgstr ""
+
+#: theme-options/theme-options-config.php:350
+msgid "Slide description text"
+msgstr ""
+
+#: theme-options/theme-options-config.php:351
+msgid "Provide URL for button"
+msgstr ""
+
+#: theme-options/theme-options-config.php:358
+msgid "Slide contents position from top"
+msgstr ""
+
+#: theme-options/theme-options-config.php:359
+msgid "Change the slide contents position from top in %age"
+msgstr ""
+
+#: theme-options/theme-options-config.php:374
+msgid "Slide Contents Background"
+msgstr ""
+
+#: theme-options/theme-options-config.php:375
+msgid "Do you want to display a light background behind slide contents ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:386
+msgid "Slide Heading Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:397
+msgid "Slide Description Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:406
+msgid "Slide Button Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:420
+msgid "Slide Button Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:433
+msgid "Slider Arrows Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:445
+msgid "Homepage Layout Manager"
+msgstr ""
+
+#: theme-options/theme-options-config.php:446
+msgid "Organize homepage sections, The way you want them to appear."
+msgstr ""
+
+#: theme-options/theme-options-config.php:449
+#: theme-options/theme-options-config.php:507
+#: theme-options/theme-options-config.php:525
+msgid "Features"
+msgstr ""
+
+#: theme-options/theme-options-config.php:450
+msgid "Content"
+msgstr ""
+
+#: theme-options/theme-options-config.php:453
+#: theme-options/theme-options-config.php:893
+msgid "Services"
+msgstr ""
+
+#: theme-options/theme-options-config.php:454
+msgid "News"
+msgstr ""
+
+#: theme-options/theme-options-config.php:457
+#: theme-options/theme-options-config.php:1085
+msgid "Recent Products"
+msgstr ""
+
+#: theme-options/theme-options-config.php:458
+msgid "Feature Products"
+msgstr ""
+
+#: theme-options/theme-options-config.php:459
+#: theme-options/theme-options-config.php:1151
+msgid "Sale Products"
+msgstr ""
+
+#: theme-options/theme-options-config.php:460
+msgid "Best Selling Prod-"
+msgstr ""
+
+#: theme-options/theme-options-config.php:461
+msgid "Product Categori-"
+msgstr ""
+
+#: theme-options/theme-options-config.php:474
+msgid "Home - Features"
+msgstr ""
+
+#: theme-options/theme-options-config.php:481
+msgid "Features Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:483
+msgid "Provide title to display above features section on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:488
+msgid "Features Description"
+msgstr ""
+
+#: theme-options/theme-options-config.php:490
+msgid ""
+"Provide the text description to display below title in features section on "
+"homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:496
+msgid "Features Section Design"
+msgstr ""
+
+#: theme-options/theme-options-config.php:497
+msgid ""
+"Select the design variation that you want to use for features on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:499
+msgid "1st Variation"
+msgstr ""
+
+#: theme-options/theme-options-config.php:500
+msgid "2nd Variation"
+msgstr ""
+
+#: theme-options/theme-options-config.php:508
+msgid "Keep the maximum height and maximum width of feature image below 120px"
+msgstr ""
+
+#: theme-options/theme-options-config.php:515
+#: theme-options/theme-options-config.php:533
+msgid "Feature Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:516
+#: theme-options/theme-options-config.php:534
+msgid "Feature Description"
+msgstr ""
+
+#: theme-options/theme-options-config.php:517
+#: theme-options/theme-options-config.php:535
+msgid "Feature link if any"
+msgstr ""
+
+#: theme-options/theme-options-config.php:526
+msgid "Recommended size for feature image is 172px by 172px"
+msgstr ""
+
+#: theme-options/theme-options-config.php:543
+msgid "Curved Area"
+msgstr ""
+
+#: theme-options/theme-options-config.php:544
+msgid "Do you want to display curved area above features section on homepage ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:553
+msgid "Curved Area Height"
+msgstr ""
+
+#: theme-options/theme-options-config.php:567
+msgid "Features Section Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:579
+msgid "Features Title Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:591
+msgid "Features Description Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:604
+msgid "Home - Portfolio"
+msgstr ""
+
+#: theme-options/theme-options-config.php:611
+msgid "Portfolio Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:613
+msgid "Provide title to display above portfolio section on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:618
+msgid "Portfolio Description"
+msgstr ""
+
+#: theme-options/theme-options-config.php:620
+msgid ""
+"Provide the text description to display below title in portfolio section on "
+"homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:626
+msgid "Portfolio Rows"
+msgstr ""
+
+#: theme-options/theme-options-config.php:627
+msgid ""
+"Select the number of rows for portfolio items in portfolio section on "
+"homepage"
+msgstr ""
+
+#: theme-options/theme-options-config.php:639
+msgid "Number of Portfolio Items"
+msgstr ""
+
+#: theme-options/theme-options-config.php:640
+msgid ""
+"Select the maximum number of portfolio items to display in portfolio section "
+"on homepage"
+msgstr ""
+
+#: theme-options/theme-options-config.php:657
+#: theme-options/theme-options-config.php:756
+#: theme-options/theme-options-config.php:1016
+msgid "Order By"
+msgstr ""
+
+#: theme-options/theme-options-config.php:658
+msgid "Select the sorting criteria for portfolio items."
+msgstr ""
+
+#: theme-options/theme-options-config.php:669
+#: theme-options/theme-options-config.php:1028
+msgid "Order"
+msgstr ""
+
+#: theme-options/theme-options-config.php:670
+msgid "Select the sort order for portfolio items."
+msgstr ""
+
+#: theme-options/theme-options-config.php:683
+msgid "Portfolio Section Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:694
+msgid "Portfolio Title Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:705
+msgid "Portfolio Description Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:716
+msgid "Home - Testimonials"
+msgstr ""
+
+#: theme-options/theme-options-config.php:723
+msgid "Testimonials Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:725
+msgid "Provide the title text to display above testimonials on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:730
+msgid "Testimonials Description"
+msgstr ""
+
+#: theme-options/theme-options-config.php:732
+msgid ""
+"Provide the text description to display below title in testimonials section "
+"on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:738
+msgid "Number of Testimonials"
+msgstr ""
+
+#: theme-options/theme-options-config.php:739
+msgid "Select the maximum number of testimonials to display on homepage"
+msgstr ""
+
+#: theme-options/theme-options-config.php:757
+msgid "Select the sorting criteria for testimonials."
+msgstr ""
+
+#: theme-options/theme-options-config.php:770
+msgid "Testimonial Section Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:781
+msgid "Testimonial Title Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:792
+msgid "Testimonial Description Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:803
+msgid "Testimonial Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:810
+msgid "Testimonial Author Name Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:822
+msgid "Testimonial Arrows Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:838
+msgid "Testimonial Border Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:849
+msgid "Testimonial Image Border Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:856
+msgid "Testimonial Image Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:871
+msgid "Home - Services"
+msgstr ""
+
+#: theme-options/theme-options-config.php:878
+msgid "Services Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:880
+msgid "Provide the title to display above services section on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:885
+msgid "Services Description"
+msgstr ""
+
+#: theme-options/theme-options-config.php:887
+msgid ""
+"Provide the text description to display below title in services section on "
+"homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:894
+msgid ""
+"You can upload image of any size. Recommended image size is 320px x 194px. "
+"Make sure to upload all images of same size."
+msgstr ""
+
+#: theme-options/theme-options-config.php:901
+msgid "Service Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:902
+msgid "Service Description"
+msgstr ""
+
+#: theme-options/theme-options-config.php:903
+msgid "Service link if any"
+msgstr ""
+
+#: theme-options/theme-options-config.php:913
+msgid "Services Section Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:920
+msgid "Services Section Background Image"
+msgstr ""
+
+#: theme-options/theme-options-config.php:921
+msgid "Do you want to display background images in services section. ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:933
+msgid "Services Title Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:944
+msgid "Services Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:951
+msgid "Services Heading Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:963
+msgid "Services Image Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:979
+msgid "Home - News"
+msgstr ""
+
+#: theme-options/theme-options-config.php:986
+msgid "News Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:988
+msgid "Provide title to display above news section on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:993
+msgid "News Description"
+msgstr ""
+
+#: theme-options/theme-options-config.php:995
+msgid ""
+"Provide the text description to display below title in news section on "
+"homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1001
+msgid "Number of News Items"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1002
+msgid ""
+"Select the maximum number of news items to display in news section on "
+"homepage"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1017
+msgid "Select the sorting criteria for news items."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1029
+msgid "Select the sort order for news items."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1042
+msgid "News Section Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1053
+msgid "News Title Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1064
+msgid "News Description Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1076
+msgid "Home - Shop"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1084
+msgid "Recent Products Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1086
+msgid "Provide the title for recent products section on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1091
+msgid "Recent Products Columns"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1092
+msgid "Select the number of columns for recent products."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1102
+msgid "Recent Products Rows"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1103
+msgid "Select the number of rows for recent products."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1117
+msgid "Featured Products Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1118
+msgid "Featured Products"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1119
+msgid "Provide the title for featured products section on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1124
+msgid "Featured Products Columns"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1125
+msgid "Select the number of columns for featured products."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1135
+msgid "Featured Products Rows"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1136
+msgid "Select the number of rows for featured products."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1150
+msgid "Sale Products Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1152
+msgid "Provide the title for sale products section on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1157
+msgid "Sale Products Columns"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1158
+msgid "Select the number of columns for sale products."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1168
+msgid "Sale Products Rows"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1169
+msgid "Select the number of rows for sale products."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1183
+msgid "Best Selling Products Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1184
+msgid "Best Selling Products"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1185
+msgid "Provide the title for best selling products section on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1190
+msgid "Best Selling Products Columns"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1191
+msgid "Select the number of columns for best selling products."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1201
+msgid "Best Selling Products Rows"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1202
+msgid "Select the number of rows for best selling products."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1216
+msgid "Product Categories Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1217
+#: theme-options/theme-options-config.php:1238
+msgid "Product Categories"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1218
+msgid "Provide the title for product categories section on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1223
+msgid "Number of Categories"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1224
+msgid "Select the number of product categories to display on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1239
+msgid "Select the product categories to display on homepage."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1240
+msgid "Leave empty if you want to show product categories by default."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1254
+#: theme-options/theme-options-config.php:1256
+msgid "Shop"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1257
+msgid "This section contains theme options related to WooCommerce Shop."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1262
+msgid "Shop Layout"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1263
+msgid "Select the type of layout that you want to use for shop."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1265
+msgid "Right Sidebar"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1266
+msgid "Full Width"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1267
+msgid "Left Sidebar"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1274
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1275
+msgid ""
+"Select the maximum number of products that you want to display on a shop "
+"page."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1293
+msgid "Product Social Share Icons"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1294
+msgid "Which social share icons you want to display on product detail page."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1311
+msgid "Quick View Cart Link"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1312
+msgid "Do you want to display quick view cart link in header ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1325
+msgid "Gallery Item"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1327
+msgid "Gallery Item Detail Page"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1328
+msgid "This section contains options related to gallery detail page."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1334
+#: theme-options/theme-options-config.php:1347
+msgid "Related Gallery Items"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1335
+msgid ""
+"Do you want to display related gallery items section on gallery detail page ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1343
+msgid "Related Gallery Items Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1344
+msgid "Provide the title text to display above related gallery items section."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1352
+msgid " Related Gallery Items Description"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1354
+msgid ""
+"Provide the text description to display below title in related gallery items "
+"section."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1366
+msgid "Contact  "
+msgstr ""
+
+#: theme-options/theme-options-config.php:1368
+msgid "This section contains options related to contact page."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1373
+msgid "Contact Form"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1374
+msgid "Do you want to display contact form on contact page ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1382
+msgid "Contact Form Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1383
+msgid "Send a Message"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1389
+msgid "Contact Form Email"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1391
+msgid ""
+"Provide the email address where you want to receive contact form messages."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1398
+msgid "Other Contact Details"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1399
+msgid ""
+"Do you want to display other contact details like address and phone numbers "
+"in sidebar ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1407
+#: theme-options/theme-options-config.php:1414
+#: theme-options/theme-options-config.php:1548
+msgid "Address"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1409
+msgid "Contact Details Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1415
+msgid "HTML is allowed"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1422
+msgid "1st Phone Number"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1428
+msgid "2nd Phone Number"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1434
+msgid "Fax Number"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1440
+msgid "Google Map"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1441
+msgid "Do you want to display google map on contact page ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1449
+msgid "Google Maps API Key"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1455
+msgid "Google Map Latitude"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1463
+msgid "Google Map Longitude"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1471
+msgid "Google Map Zoom"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1483
+#: theme-options/theme-options-config.php:2069
+msgid "Footer"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1484
+msgid "This section contains footer related options."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1489
+msgid "Latest Tweet Above Footer"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1490
+msgid "Do you want to display latest tweet above footer ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1501
+msgid "Note"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1508
+msgid "Twitter Username"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1509
+msgid "Provide twitter username"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1515
+msgid "Consumer Key"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1521
+msgid "Consumer Secret"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1527
+msgid "Access Token"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1533
+msgid "Access Token Secret"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1539
+msgid "Contact Information in Footer"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1540
+msgid "Do you want to display contact information in footer ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1549
+msgid "Address to display in footer ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1555
+msgid "Phone Number"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1556
+msgid "Phone number to display in footer ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1563
+msgid "Email address to display in footer ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1571
+msgid "Social Icons"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1572
+msgid "Do you want to display social icons in footer ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1580
+msgid "Social Icons Title"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1581
+msgid "Get Social With Us"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1587
+msgid "Skype Username"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1588
+msgid "Provide skype username to display its icon."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1594
+#: theme-options/theme-options-config.php:2003
+msgid "Twitter"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1595
+msgid "Provide twitter url to display its icon."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1601
+msgid "Facebook"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1602
+msgid "Provide facebook url to display its icon."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1608
+msgid "Google+"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1609
+msgid "Provide google+ url to display its icon."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1615
+msgid "LinkedIn"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1616
+msgid "Provide LinkedIn url to display its icon."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1622
+msgid "Instagram"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1623
+msgid "Provide Instagram url to display its icon."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1629
+msgid "YouTube"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1630
+msgid "Provide YouTube url to display its icon."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1636
+msgid "RSS"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1637
+msgid "Provide RSS feed url to display its icon."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1643
+msgid "Copyright Text"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1648
+msgid "Scroll Top"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1649
+msgid "Do you want to display scroll top arrow in footer ?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1663
+msgid "Styling"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1665
+msgid "This section contains styles related options."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1671
+msgid "Body Background"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1672
+msgid "Configure body background of your choice. ( default:#ffffff )"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1678
+msgid "Animation?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1679
+msgid "Enable or Disable CSS3 animation on various components"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1681
+#: theme-options/theme-options-config.php:1860
+msgid "Enabled"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1682
+#: theme-options/theme-options-config.php:1861
+msgid "Disabled"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1687
+msgid "Do you want to change fonts?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1689
+msgid "Yes"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1690
+msgid "No"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1695
+msgid "Headings Font"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1696
+msgid "Select the font for headings."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1697
+msgid "Lily Script One is default font."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1715
+msgid "Text Font"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1716
+msgid "Select the font for body text."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1717
+msgid "Open Sans is default font."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1737
+msgid "Headings Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1747
+msgid "Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1757
+msgid "Quote Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1765
+msgid "Link Color in Contents"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1777
+msgid "Link Color in Sidebar"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1790
+msgid "Default Button Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1802
+msgid "Default Button Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1814
+msgid "Light Button Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1826
+msgid "Light Button Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1837
+msgid "Quick CSS"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1838
+msgid ""
+"You can use this box for some quick css changes. For big changes, Use the "
+"custom.css file in css folder. In case of child theme please use style.css "
+"file in child theme."
+msgstr ""
+
+#: theme-options/theme-options-config.php:1852
+msgid "This section contains styling options for header"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1857
+msgid "Sticky Header?"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1858
+msgid "Enable or Disable sticky header"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1868
+msgid "Header Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1878
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1886
+msgid "Text Logo Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1900
+msgid "Tag Line Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1908
+msgid "Top Menu Items Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1923
+msgid "Sub Menu Background"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1933
+msgid "Sub Menu Bottom Border Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1941
+msgid "Sub Menu Items Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1956
+msgid "Sub Menu Items Border Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1969
+msgid "Responsive Menu Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1980
+msgid "Responsive Menu Hover Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:1991
+msgid "Responsive Menu Border Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2005
+msgid "This section contains styling options for twitter section above footer."
+msgstr ""
+
+#: theme-options/theme-options-config.php:2013
+msgid "Twitter Section Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2024
+msgid "Tweet Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2031
+msgid "Tweet Link Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2043
+msgid "Twitter Sparrow Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2054
+msgid "Twitter Sparrow Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2071
+msgid "This section contains styling options for footer"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2079
+msgid "Footer Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2089
+msgid "Footer Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2097
+msgid "Footer Link Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2109
+msgid "Borders Color in Footer"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2120
+msgid "Footer Social Icons Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2134
+msgid "Footer Bottom Area Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2144
+msgid "Footer Copyright Text Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2152
+msgid "Scroll Top Arrow Background Color"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2166
+msgid "Documentation"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2177
+msgid "Theme Information 1"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2178
+#: theme-options/theme-options-config.php:2184
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2183
+msgid "Theme Information 2"
+msgstr ""
+
+#: theme-options/theme-options-config.php:2188
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28 woocommerce/cart/cart.php:78
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:106
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:152
+msgid "Coupon Code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/content-product_cat.php:87
+msgid "Products"
+msgstr ""
+
+#: woocommerce/single-product/related.php:38
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""

@@ -1,0 +1,40 @@
+/*-----------------------------------------------------------------------------------*/
+/*  FAQ
+/*-----------------------------------------------------------------------------------*/
+#filters {
+  padding: 0;
+  /*border-bottom: 1px solid #dcdee4;*/
+  margin-bottom: 30px;
+  li {
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0 10px 1px;
+    border-bottom: 1px solid #dcdee4;
+    &.active {
+      padding-bottom: 0;
+      border-bottom: 2px solid @heading_color;
+    }
+    a {
+      padding: 15px 0;
+      display: inline-block;
+      text-decoration: none;
+      color: @heading_color;
+      &:hover{
+        color: #66d9c1;
+      }
+    }
+  }
+
+}
+
+
+.faqs{
+  > dt i {
+      margin-right: 10px;
+      font-size: 18px;
+    }
+ > dd{
+    padding-bottom: 10px;
+  }
+}

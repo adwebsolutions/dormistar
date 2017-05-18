@@ -1,0 +1,175 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">faq</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">portfolio-item</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio-item-type</taxonomy>
+        <taxonomy translate="1">faq-group</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="redux_demo">
+            <key name="theme_favicon">
+                <key name="url" />
+            </key>
+            <key name="website_logo">
+                <key name="url" />
+            </key>
+            <key name="default_page_banner" />
+            <key name="revolution_slider_alias" />
+            <key name="slides">
+                <key name="0">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="1">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="2">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="3">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="4">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+            </key>
+            <key name="home_features_title" />
+            <key name="home_features_description" />
+            <key name="home_features">
+                <key name="0">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="1">
+
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="2">
+
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="3">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="4">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+            </key>
+            <key name="home_features_2">
+                <key name="0">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="1">
+
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="2">
+
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="3">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="4">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+            </key>
+            <key name="home_portfolio_title" />
+            <key name="home_portfolio_description" />
+            <key name="home_testimonials_title" />
+            <key name="home_testimonials_description" />
+            <key name="home_services_title" />
+            <key name="home_services_description" />
+            <key name="home_services">
+                <key name="0">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="1">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="2">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="3">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+                <key name="4">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                </key>
+            </key>
+            <key name="home_news_title" />
+            <key name="home_news_description" />
+            <key name="recent_products_title" />
+            <key name="featured_products_title" />
+            <key name="sale_products_title" />
+            <key name="best_selling_products_title" />
+            <key name="product_categories_title" />
+            <key name="related_gallery_items_title" />
+            <key name="related_gallery_items_description" />
+            <key name="contact_form_title" />
+            <key name="contact_email" />
+            <key name="contact_details_title" />
+            <key name="contact_address" />
+            <key name="contact_phone_01" />
+            <key name="contact_phone_02" />
+            <key name="contact_fax" />
+            <key name="google_map_latitude" />
+            <key name="google_map_longitude" />
+            <key name="google_map_zoom" />
+            <key name="footer_address" />
+            <key name="footer_phone" />
+            <key name="footer_email" />
+            <key name="social_icons_title" />
+            <key name="skype_username" />
+            <key name="twitter_url" />
+            <key name="facebook_url" />
+            <key name="google_url" />
+            <key name="linkedin_url" />
+            <key name="instagram_url" />
+            <key name="youtube_url" />
+            <key name="rss_url" />
+            <key name="footer_copyright" />
+        </key>
+    </admin-texts>
+</wpml-config>

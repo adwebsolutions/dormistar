@@ -1,0 +1,70 @@
+/*-----------------------------------------------------------------------------------*/
+/* Lists
+/*-----------------------------------------------------------------------------------*/
+.toggle.faqs dd,
+article {
+  ul, ol {
+    margin: 20px 0 20px 40px;
+    li {
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+  }
+  ol {
+    list-style: decimal;
+  }
+  ul {
+    list-style: disc;
+  }
+  ol li ol,
+  ol li ul,
+  ul li ul,
+  ul li ol {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  dl {
+    margin-top: 20px;
+    dt {
+      margin-top: 7px;
+      margin-bottom: 7px;
+      color: @heading_color;
+    }
+    dd {
+      padding-left: 10px;
+    }
+  }
+
+}
+
+.list-arrow-bullet,
+.list-empty-circle-bullet {
+  ul {
+    list-style: none;
+    margin-left: 0;
+    li {
+      padding-left: 22px;
+    }
+  }
+}
+
+.list-arrow-bullet {
+  ul li {
+    background: url('../images/list-bullet-arrow.png') no-repeat left 8px;
+  }
+}
+
+.list-empty-circle-bullet {
+  ul li {
+    background: url('../images/list-bullet-empty-circle.png') no-repeat left 6px;
+  }
+}
+
+.theme-ordered-list {
+  ol {
+    list-style-type: decimal;
+    margin-left: 25px;
+  }
+}
+

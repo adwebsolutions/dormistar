@@ -1,0 +1,48 @@
+/*@body_color : #969d9b;*/
+@body_color : #7b7d85;
+@anchor_color : #66d9c1;
+@heading_color : #3a4543;
+@anchor_hover_color :  @heading_color;
+@heading_hover_color : @anchor_color;
+
+@import "bootstrap/variables.less";
+@import "bootstrap/mixins.less";
+
+@media (min-width: 1230px) {
+  .container {
+    .box-sizing(content-box);
+  }
+}
+
+@import "main/theme-core.less";
+@import "main/common.less";
+@import "main/pagination.less";
+@import "main/tables.less";
+@import "main/list-group.less";
+@import "main/button.less";
+@import "main/widget.less";
+@import "main/shortcodes.less";
+@import "main/comments.less";
+
+@import "main/header.less";
+@import "main/slider.less";
+
+@import "pages/home.less";
+@import "pages/services.less";
+@import "main/footer.less";
+@import "pages/blog.less";
+@import "pages/gallery.less";
+@import "pages/contact.less";
+@import "pages/faq.less";
+@import "pages/404.less";
+@import "pages/1_shop.less";
+@import "pages/2_product.less";
+@import "pages/3_chcekout.less";
+@import "pages/4_cart.less";
+@import "pages/5_accounts.less";
+
+
+/*--------------------------------------------------------------------------------------------------------*/
+/* Responsive styles
+/*--------------------------------------------------------------------------------------------------------*/
+@import "responsive/custom-responsive.less";
