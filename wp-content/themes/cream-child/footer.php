@@ -104,9 +104,9 @@ if( $theme_options['display_tweet_above_footer'] ){
                             <address><i class="fa fa-home"></i><?php echo $theme_options['footer_address']; ?></address>
                             <?php
                         }
-                        if ( !empty($theme_options['footer_phone']) ) {
+                        if ( !empty($theme_options['footer_phone']) || !empty($theme_options['footer_alternative_phone1']) || !empty($theme_options['footer_alternative_phone2'])) {
                             ?>
-                            <i class="fa fa-mobile"></i><a class="phone-number" href="tel:<?php echo preg_replace('/\D+/', '', str_replace( '+', '00', $theme_options['footer_phone'] ) ); ?>"><?php echo $theme_options['footer_phone']; ?></a>
+                            <i class="fa fa-mobile"></i><a class="phone-number" href="tel:+52<?php echo preg_replace('/\D+/', '', str_replace( '+', '00', $theme_options['footer_phone'] ) ); ?>"><?php echo $theme_options['footer_phone']; ?></a><?php if(!empty($theme_options['footer_alternative_phone1'])) {?><span> / </span><a class="phone-number" href="tel:+52<?php echo preg_replace('/\D+/', '', str_replace( '+', '00', $theme_options['footer_alternative_phone1'] ) ); ?>"><?php echo $theme_options['footer_alternative_phone1']; ?></a><?php }?><?php if(!empty($theme_options['footer_alternative_phone1'])) {?><span> / </span><a class="phone-number" href="tel:+52<?php echo preg_replace('/\D+/', '', str_replace( '+', '00', $theme_options['footer_alternative_phone2'] ) ); ?>"><?php echo $theme_options['footer_alternative_phone2']; ?></a><?php }?>
                             <?php
                         }
                         if ( isset( $theme_options['footer_email'] ) && is_email( $theme_options['footer_email'] ) ) {

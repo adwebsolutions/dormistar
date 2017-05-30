@@ -28,6 +28,8 @@ if (!function_exists('inspiry_enqueue_child_styles')) {
 
             /* enqueue child default styles */
             wp_enqueue_style('child-default', get_stylesheet_uri(), array('parent-default'), '1.0.1', 'all');
+            wp_register_script('child-custom-js', get_stylesheet_directory_uri().'/custom-child.js', array(), '1.0', true);
+            wp_enqueue_script('child-custom-js');
         }
     }
 }
@@ -141,6 +143,13 @@ function dynamic_section($sections) {
                 'required'  => array('top_bar', '=', '1')
             ),
             array(
+                'id'=>'home_services_bg',
+                'type'     => 'media',
+                'url'      => false,
+                'title'    => __('Image background for Home Services Section', 'framework'),
+                'subtitle' => __('Upload optional image background to show Home Services Section.', 'framework')
+            ),
+            array(
                 'id' => 'fbk_bar',
                 'type' => 'switch',
                 'title' => __('Facebook Bar in Footer?', 'framework'),
@@ -185,6 +194,20 @@ function dynamic_section($sections) {
                 'subtitle' => __('Upload optional image to show in Right Side of the Facebook Bar.', 'framework'),
                 'required'  => array('fbk_bar', '=', '1')
             ),
+            array(
+                'id'    =>'footer_alternative_phone1',
+                'type'  =>'text',
+                'title' => __('Phone number alternative 1'),
+                'subtitle' => __('Phone number alternative 1 to display in footer ?', 'framework'),
+                'required'  => array('display_footer_contact_info', '=', '1')
+            ),
+            array(
+                'id'    =>'footer_alternative_phone2',
+                'type'  =>'text',
+                'title' => __('Phone number alternative 2'),
+                'subtitle' => __('Phone number alternative 2 to display in footer ?', 'framework'),
+                'required'  => array('display_footer_contact_info', '=', '1')
+            )
         )
     );
 
@@ -199,9 +222,35 @@ function woocommerce_template_single_description(){
 add_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_description', 20 );
 
 add_filter( 'woocommerce_product_single_add_to_cart_text', 'custom_button_text' , $this );
-add_filter('woocommerce_loop_add_to_cart_link_text', 'custom_button_text',$this );
 function custom_button_text (){
     return __( 'Buy', 'cream-child' );
+}
+add_filter( 'woocommerce_product_add_to_cart_text' , 'custom_woocommerce_product_add_to_cart_text' );
+/**
+ * custom_woocommerce_template_loop_add_to_cart
+ */
+function custom_woocommerce_product_add_to_cart_text() {
+    global $product;
+
+    $product_type = $product->product_type;
+
+    switch ( $product_type ) {
+        case 'external':
+            return __( 'Buy', 'cream-child' );
+            break;
+        case 'grouped':
+            return __( 'Buy', 'cream-child' );
+            break;
+        case 'simple':
+            return __( 'Buy', 'cream-child' );
+            break;
+        case 'variable':
+            return __( 'Buy', 'cream-child' );
+            break;
+        default:
+            return __( 'Read more', 'woocommerce' );
+    }
+
 }
 
 remove_action('woocommerce_single_product_summary','woocommerce_template_single_meta', 40);

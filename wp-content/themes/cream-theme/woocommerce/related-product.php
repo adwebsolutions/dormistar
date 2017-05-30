@@ -1,4 +1,4 @@
-s<?php
+<?php
 /**
  * The template for displaying product in related products loop
  *

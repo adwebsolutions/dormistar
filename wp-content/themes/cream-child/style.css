@@ -48,6 +48,19 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 	width: 100% !important;
 }
 /*header*/
+body {
+	padding-top: 50px;
+}
+.top-bar-wrapper {
+	position: fixed;
+	top: 0;
+	transition: top 0.2s ease-in-out;
+	height: 50px;
+	width: 100%;
+}
+.nav-up {
+	top: -50px;
+}
 .top-bar {
 	height: 50px;
 	overflow: hidden;
@@ -118,9 +131,10 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 	background: rgba(0,0,0,0.8);
 }
 .page-title {
-	font-size: 70px;
+	font-size: 50px;
 	line-height: 75px;
 	font-weight: 400;
+	font-family: "Roboto", sans-serif;
 }
 /*footer*/
 .facebook-call {
@@ -210,6 +224,12 @@ footer .social_networks i.fa-lg {
 .footer .contact-details i {
 	display: none;
 }
+.footer .contact-details .phone-number {
+	margin-right: 0;
+}
+.footer .contact-details .phone-number:last-child{
+	margin-right: 25px;
+}
 .footer-bottom .container {
 	padding-top: 0;
 	padding-bottom: 0;
@@ -233,10 +253,12 @@ footer .social_networks i.fa-lg {
 	padding-top: 3px;
 	border-bottom: 2px solid #939393;
 }
-.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range {
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range {
 	background: #A4CCEB;
 }
-.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
 	background: #939393;
 }
 .widget.woocommerce ul li {
@@ -272,13 +294,29 @@ footer .social_networks i.fa-lg {
 .woocommerce-page a.button,
 .woocommerce a.added_to_cart,
 .woocommerce-page a.added_to_cart {
-	font-size: 10px;
+	font-size: 12px;
+	line-height: 30px;
+	height: 30px;
 	font-weight: bold;
-	padding: 0;
-	line-height: 80px;
-	min-width: 80px;
+	padding: 0 10px;
 	text-align: center;
+}
+.woocommerce a.added_to_cart,
+.woocommerce-page a.added_to_cart,
+.product-listing .product a.button
+{
 	border-radius: 50%;
+	line-height: 60px;
+	height: auto;
+	min-width: 60px;
+	font-size: 12px;
+	padding: 0;
+	font-weight: normal;
+}
+#add_payment_method .wc-proceed-to-checkout a.checkout-button,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button {
+	padding: 0;
 }
 .nav-dropdown a.button {
 	display: inline-block;
@@ -289,23 +327,6 @@ footer .social_networks i.fa-lg {
 	text-transform: uppercase;
 	margin-top: 10px;
 	padding: 0 10px;
-	border-radius: 0;
-}
-#add_payment_method table.cart input,
-.woocommerce-cart table.cart input,
-.woocommerce-checkout table.cart input,
-#add_payment_method .wc-proceed-to-checkout a.checkout-button,
-.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
-.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button,
-.woocommerce #payment #place_order,
-.woocommerce-page #payment #place_order{
-	margin: 0;
-	vertical-align: middle;
-	line-height: 30px;
-	border-radius: 0;
-}
-.woocommerce .coupon input.button, .woocommerce-page .coupon input.button {
-	line-height: 30px;
 	border-radius: 0;
 }
 .product-listing figure figcaption,
@@ -365,7 +386,16 @@ footer .social_networks i.fa-lg {
 }
 .woocommerce div.product .product_title {
 	color: #A4CCEB;
-	font-size: 50px;
+	font-size: 36px;
+	font-family: "Roboto", sans-serif;
+}
+.woocommerce .woocommerce-message a:hover,
+.woocommerce-page .woocommerce-message a:hover,
+.woocommerce .woocommerce-error a:hover,
+.woocommerce-page .woocommerce-error a:hover,
+.woocommerce .woocommerce-info a:hover,
+.woocommerce-page .woocommerce-info a:hover {
+	color: #A4CCEB;
 }
 .woocommerce #content div.product span.price span,
 .woocommerce-page #content div.product span.price span,
@@ -426,8 +456,8 @@ footer .social_networks i.fa-lg {
 	font-weight: 500;
 }
 .home-services-section .section-top {
-	background: url("http://mypc:2100/dormistar/wp-content/uploads/2017/05/feature_bg.jpg") no-repeat top center;
-	background-size: cover;
+	/*background: url("/dormistar/wp-content/uploads/2017/05/feature_bg.jpg") ;*/
+	background-size: cover !important;
 	padding: 250px 0 100px 0;
 	margin-top: -170px;
 	z-index: 0;

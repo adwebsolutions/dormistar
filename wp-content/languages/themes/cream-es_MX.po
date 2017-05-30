@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Cream\n"
-"POT-Creation-Date: 2017-05-29 19:14-0400\n"
-"PO-Revision-Date: 2017-05-29 22:39-0400\n"
+"POT-Creation-Date: 2017-05-19 11:43-0400\n"
+"PO-Revision-Date: 2017-05-19 11:46-0400\n"
 "Last-Translator: \n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: es_MX\n"
@@ -27,117 +27,117 @@ msgstr ""
 #: 404.php:16
 msgid ""
 "Look like something went wrong! The page you were looking for is not here"
-msgstr "¡Algo anda mal! La página que estás buscando no existe"
+msgstr ""
 
 #: 404.php:17
 msgid "Visit Homepage"
-msgstr "Visita Página de Inicio"
+msgstr ""
 
 #: banners/archive-banner.php:11 banners/archive-banner.php:13
 #: banners/archive-banner.php:15
 #, php-format
 msgid "%s"
-msgstr "%s"
+msgstr ""
 
 #: banners/archive-banner.php:20 banners/blog-page-banner.php:21
 msgid "Blog"
-msgstr "Entrada"
+msgstr ""
 
 #: banners/archive-banner.php:20
 msgid "Archives"
-msgstr "Archivos"
+msgstr ""
 
 #: banners/search-banner.php:3 header.php:165
 msgid "Search"
-msgstr "Buscar"
+msgstr ""
 
 #: comments.php:14
 msgid "No Comment"
-msgstr "Sin Comentarios"
+msgstr ""
 
 #: comments.php:14
 msgid "One Comment"
-msgstr "Un Comentario"
+msgstr ""
 
 #: comments.php:14
 msgid "% Comments"
-msgstr "% Comentarios"
+msgstr ""
 
 #: comments.php:32
 msgid "Comments are closed."
-msgstr "Los comen6arios está cerrados."
+msgstr ""
 
 #: contact-template.php:59
 msgid "Name"
-msgstr "Nombre"
+msgstr ""
 
 #: contact-template.php:60
 msgid "* Please provide your name"
-msgstr "* Por favor, entra tu nombre"
+msgstr ""
 
 #: contact-template.php:63 theme-options/theme-options-config.php:1562
 msgid "Email"
-msgstr "Correo"
+msgstr ""
 
 #: contact-template.php:64
 msgid "* Please provide a valid email address"
-msgstr "* Por favor entra tu dirección de correo"
+msgstr ""
 
 #: contact-template.php:67
 msgid "Phone"
-msgstr "Teléfono"
+msgstr ""
 
 #: contact-template.php:68
 msgid "* Please provide only digits as phone number"
-msgstr "* Por favor, entra solo dígitos para el número de teléfono"
+msgstr ""
 
 #: contact-template.php:72
 msgid "Message"
-msgstr "Mensaje"
+msgstr ""
 
 #: contact-template.php:73
 msgid "* Please provide your message"
-msgstr "* Por favor, entra un mensaje"
+msgstr ""
 
 #: contact-template.php:75
 msgid "All HTML tags will be removed."
-msgstr "Todos los tags HTML será quitado."
+msgstr ""
 
 #: contact-template.php:80
 msgid "SUBMIT"
-msgstr "ENVIAR"
+msgstr ""
 
 #: faqs-template.php:72
 msgid "All FAQs"
-msgstr "Todas las FAQs"
+msgstr ""
 
 #: faqs-template.php:130
 msgid "No FAQ found!"
-msgstr "¡No se encontraron FAQ!"
+msgstr ""
 
 #: functions.php:26
 msgid "Main Menu"
-msgstr "Menu Principal"
+msgstr ""
 
 #: functions.php:27
 msgid "Footer Menu"
-msgstr "Menú del Footer"
+msgstr ""
 
 #: functions.php:134
 msgid "Blog Sidebar"
-msgstr "Barra Lateral"
+msgstr ""
 
 #: functions.php:135
 msgid "This sidebar is for blog, blog posts."
-msgstr "Esta Barra Lateral es solo para el blog y entradas del blog."
+msgstr ""
 
 #: functions.php:145
 msgid "Page Sidebar"
-msgstr "Barra Lateral para Páginas"
+msgstr ""
 
 #: functions.php:146
 msgid "This sidebar is for pages."
-msgstr "Esta barra lateral es para páginas."
+msgstr ""
 
 #: functions.php:156
 msgid "FAQs Sidebar"
@@ -217,11 +217,11 @@ msgstr ""
 
 #: include/contact_form_handler.php:62
 msgid "You have received a message from: "
-msgstr "Recibiste un mensaje de: "
+msgstr ""
 
 #: include/contact_form_handler.php:65
 msgid "Phone Number : "
-msgstr "Número Telefónico: "
+msgstr ""
 
 #: include/contact_form_handler.php:68
 msgid "Their additional message is as follows."
@@ -245,7 +245,7 @@ msgstr ""
 
 #: include/contact_form_handler.php:87
 msgid "Invalid Request !"
-msgstr "!Solicitud Inválida!"
+msgstr ""
 
 #: include/faq-post-type.php:8
 msgid "FAQs"

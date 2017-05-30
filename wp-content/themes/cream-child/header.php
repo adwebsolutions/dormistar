@@ -30,7 +30,7 @@
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="<?php echo 'http://browsehappy.com/'; ?>">upgrade your browser</a> or <a href="<php echo 'http://www.google.com/chromeframe/?redirect=true'; ?>">activate Google Chrome Frame</a> to improve your experience.</p>
 <![endif]-->
 <?php if( $theme_options['top_bar'] ){?>
-<div class="top-bar-wrapper">
+<div class="top-bar-wrapper nav-down">
     <div class="top-bar container fadeInDown animated">
         <div class="col-lg-6 left-side">
             <?php
