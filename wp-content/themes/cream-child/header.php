@@ -32,7 +32,7 @@
 <?php if( $theme_options['top_bar'] ){?>
 <div class="top-bar-wrapper nav-down">
     <div class="top-bar container fadeInDown animated">
-        <div class="col-lg-6 left-side">
+        <div class="col-sm-6 left-side">
             <?php
             if (!empty($theme_options['left_bar_title'])){
                 echo "<span class='top-bar-title'>".$theme_options['left_bar_title']."</span>";
@@ -65,7 +65,7 @@
             }
             ?>
         </div>
-        <div class="col-lg-6 right-side">
+        <div class="col-sm-6 right-side">
             <?php
             if (!empty($theme_options['right_bar_title'])){
                 echo "<span class='top-bar-title'>".$theme_options['right_bar_title']."</span>";
