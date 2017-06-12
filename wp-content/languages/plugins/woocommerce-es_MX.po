@@ -2,14 +2,17 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-05-18 04:40:46+0000\n"
+"PO-Revision-Date: 2017-06-12 12:16-0400\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/2.4.0-alpha\n"
+"X-Generator: Poedit 2.0.2\n"
 "Language: es_MX\n"
 "Project-Id-Version: Plugins - WooCommerce - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:86
 msgid "Create"
@@ -738,7 +741,7 @@ msgstr "Calle y número"
 #. translators: %s: field name
 #: includes/class-wc-checkout.php:607
 msgid "Billing %s"
-msgstr "Facturación %s"
+msgstr "%s"
 
 #: includes/class-wc-cart.php:912
 msgid "You cannot add another \"%s\" to your cart."
@@ -17175,7 +17178,6 @@ msgstr "Existencias del artículo %1$s incrementadas de %2$s a %3$s."
 msgid "Order status changed from %1$s to %2$s."
 msgstr "El pedido ha cambiado de %1$s a %2$s."
 
-#. #-#-#-#-#  woocommerce-code.pot (WooCommerce 3.0.7)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
 #: includes/admin/class-wc-admin-assets.php:91
 #: includes/admin/class-wc-admin-menus.php:60

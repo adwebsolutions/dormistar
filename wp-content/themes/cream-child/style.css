@@ -85,6 +85,9 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 	line-height: 50px;
 	display: inline-block;
 }
+.top-bar a:hover {
+	color: #9DC5DE;
+}
 .top-bar .top-bar-text {
 	line-height: 50px;
 	display: inline-block;
@@ -613,6 +616,9 @@ footer .social_networks i.fa-lg {
 @media(max-width: 767px){
 	.home-services-section .img-frame {
 		height: auto;
+	}
+	.home-services-section .img-frame img {
+		width: 80%;
 	}
 }
 .home-services-section figure {

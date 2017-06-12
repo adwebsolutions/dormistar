@@ -125,11 +125,10 @@ do_action( 'woocommerce_before_cart' ); ?>
             <tr>
                 <td colspan="6" class="actions">
 
-                    <input type="submit" class="button" name="update_cart" value="<?php _e( 'Update Cart', 'cream-child' ); ?>" /> <input type="submit" class="checkout-button button alt wc-forward" name="proceed" value="<?php _e( 'Proceed to Checkout', 'cream-child' ); ?>" />
+                    <input type="submit" class="button" name="update_cart" value="<?php _e( 'Update Cart', 'cream-child' ); ?>" />
 
                     <?php do_action( 'woocommerce_cart_actions' ); ?>
 
-                    <?php wp_nonce_field( 'woocommerce-cart' ); ?>
                 </td>
             </tr>
 

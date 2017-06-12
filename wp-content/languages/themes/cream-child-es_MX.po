@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cream\n"
 "POT-Creation-Date: 2017-05-29 22:26-0400\n"
-"PO-Revision-Date: 2017-05-29 22:26-0400\n"
+"PO-Revision-Date: 2017-06-12 12:05-0400\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: es_MX\n"
@@ -224,7 +224,7 @@ msgstr "Actualizar Carrito"
 
 #: woocommerce/cart/cart.php:128
 msgid "Proceed to Checkout"
-msgstr "Ir a la Caja"
+msgstr "Finalizar Pedido"
 
 #: woocommerce/cart/cart.php:148
 msgid "Coupon"
